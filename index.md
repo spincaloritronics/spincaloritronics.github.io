@@ -18,13 +18,13 @@ The Spin Caloritornics workshops had been previously held in Leiden (2009, 2011)
 
 # Scientific Advisory Board
 
-* Axel Hoffmann
-* Burkard Hillebrands
-* Fuchun Zhang
-* Sadamichi Maekawa
-* Xiufeng Han
-* Kenichi Uchida
-* Joe Barker
+* Axel Hoffmann, UIUC, USA
+* Burkard Hillebrands, TU Kaiserslautern, Germany
+* Fuchun Zhang, KITS, China
+* Sadamichi Maekawa, RIKEN, Japan
+* Xiufeng Han, IoP, China
+* Kenichi Uchida, NIMS, Japan
+* Joe Barker, University of Leeds, UK
 
 # Invited Speakers
 
