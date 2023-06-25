@@ -32,17 +32,17 @@ The Spin Caloritornics workshops had been previously held in Leiden (2009, 2011)
 |:---------:|:----------:|:------------:|:------------:|:------------:|:------------:|
 | 9:00- 9:30|              |              |              |              |              |
 | 9:30-10:00|              |              |              |              |              |
-|10:00-10:30| _Tea break_  | _Tea break_  | _Tea break_  | _Tea break_  | _Tea break_  |
+|10:00-10:30|              | _Tea break_  | _Tea break_  | _Tea break_  | _Tea break_  |
 |10:30-11:00|              |              |              |              |              |
 |11:00-11:30|              |              |              |              |              |
 |11:30-12:00|              |              |              |              |              |
 |12:00-14:00|_Lunch break_ |_Lunch break_ |_Lunch break_ |_Lunch break_ |_Lunch break_ |
 |14:00-14:30|              |              |              |              |              |
 |14:30-15:00|              |              |              |              |              |
-|15:00-15:30| _Tea break_  | _Tea break_  | _Tea break_  | _Tea break_  | _Tea break_  |
+|15:00-15:30| _Tea break_  | _Tea break_  |              | _Tea break_  |              |
 |15:30-16:00|              |              |              |              |              |
 |16:00-16:30|              |              |              |              |              |
-|16:30-17:00|              |              |              |              |              |
+|16:30-17:00|              |              |  _Banquet_   |              |              |
 
 # Application & Registration
 
