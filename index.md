@@ -16,7 +16,7 @@ The Spin Caloritornics workshops had been previously held in Leiden (2009, 2011)
 * Gerrit E. W. BAUER, KITS-UCAS and Tohoku University
 * Wanjun JIANG, Tsinghua Unviersity
 
-# Confirmed Invited Speakers
+# Invited Speakers
 
 # Program
 
