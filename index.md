@@ -9,11 +9,11 @@ Leiden ([2009](https://www.lorentzcenter.nl/spin-caloritronics.html), [2011](htt
 Sendai (2010, 2012), 
 Columbus (2013, [2018](https://cem.osu.edu/news/spin-cal-ix/)), 
 Irsee (2014), 
-[Utrecht](https://web.science.uu.nl/spincaloritronics7/introduction.htm) (2016), 
+Utrecht ([2016](https://web.science.uu.nl/spincaloritronics7/introduction.htm),
 Regensburg (2017), 
 Groningen (2019), 
-[Urbana-Champaign](https://cem.osu.edu/2022-workshop-spin-caloritronics-xi/) (2022), 
-[Tsukuba](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html) (2023).	
+Urbana-Champaign ([2022](https://cem.osu.edu/2022-workshop-spin-caloritronics-xi/)), 
+Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).	
 
 # Organizers
 
