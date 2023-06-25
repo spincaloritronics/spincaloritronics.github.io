@@ -12,19 +12,40 @@ The Spin Caloritornics workshops had been previously held in Leiden (2009, 2011)
 
 # Organizers
 
-* Jiang XIAO (Chair), Fudan University
-* Gerrit E. W. BAUER, KITS-UCAS and Tohoku University
-* Wanjun JIANG, Tsinghua Unviersity
+* Prof. Jiang XIAO (Chair), Fudan University 
+* Prof. Gerrit E. W. BAUER, KITS-UCAS and Tohoku University
+* Prof. Wanjun JIANG, Tsinghua Unviersity
+
+# Scientific Advisory Board
+
+* Axel Hoffmann
+* Burkard Hillebrands
+* Fuchun Zhang
+* Sadamichi Maekawa
+* Xiufeng Han
+* Kenichi Uchida
+* Joe Barker
 
 # Invited Speakers
 
+* TBA
+
 # Program
+
+* TBA
 
 # Registration
 
+* TBA
+
 # Venue & Hotel
 
+* Workshop Venue: Meeting room at UCAS campus
+* Recommended Hotel: [Park Plaza Beijing Science Park](https://tinyurl.com/4e8rv3xf) / 北京丽亭华苑酒店
+
 # Visa
+
+For visa issue, please contact workshop secretary Mr. Peimin Yan (yanpeiming@ucas.ac.cn).
 
 # Sponsors
 
