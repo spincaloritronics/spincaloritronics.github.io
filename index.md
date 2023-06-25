@@ -46,7 +46,9 @@ The Spin Caloritornics workshops had been previously held in Leiden (2009, 2011)
 
 # Application & Registration
 
-* TBA
+* Please fill out this form to apply for the workshop before this date.
+* The accepted applicants will be notified by email before this date.
+* For invited speakers and accepted attendees, please fill this form for online registration before this date.
 
 # Venue & Hotel
 
