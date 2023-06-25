@@ -22,7 +22,9 @@ The Spin Caloritornics workshops had been previously held in Leiden (2009, 2011)
 
 # Registration
 
-# Venue
+# Venue & Hotel
+
+# Visa
 
 # Sponsors
 
