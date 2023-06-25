@@ -21,11 +21,11 @@ The Spin Caloritornics workshops had been previously held in Leiden (2009, 2011)
 * Axel Hoffmann, UIUC, USA
 * Burkard Hillebrands, TU Kaiserslautern, Germany
 * Fuchun Zhang, KITS, China
+* Joe Barker, University of Leeds, UK
+* Kenichi Uchida, NIMS, Japan
 * Sadamichi Maekawa, RIKEN, Japan
 * Xiufeng Han, IoP, China
-* Kenichi Uchida, NIMS, Japan
-* Joe Barker, University of Leeds, UK
-
+  
 # Invited Speakers
 
 * TBA
