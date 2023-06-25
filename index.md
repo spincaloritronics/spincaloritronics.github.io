@@ -7,7 +7,7 @@ Spin caloritronics is the science and technology of coupled spin, charge, and he
 The Spin Caloritornics workshops had been previously held in 
 Leiden ([2009](https://www.lorentzcenter.nl/spin-caloritronics.html), [2011](https://www.lorentzcenter.nl/spin-caloritronics-iii.html)), 
 Sendai (2010, 2012), 
-Columbus (2013, [2018](https://cem.osu.edu/news/spin-cal-ix/)), 
+Columbus ([2013](https://cem.osu.edu/event/spin-caloritronics-v/), [2018](https://cem.osu.edu/news/spin-cal-ix/)), 
 Irsee (2014), 
 Utrecht ([2016](https://web.science.uu.nl/spincaloritronics7/introduction.htm)),
 Regensburg (2017), 
