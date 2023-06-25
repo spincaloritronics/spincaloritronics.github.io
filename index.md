@@ -28,7 +28,9 @@ The Spin Caloritornics workshops had been previously held in Leiden (2009, 2011)
 
 # Program
 
-* TBA
+| 20 - May | 21 - May | 22 - May| 23 - May | 24 - May| 
+---
+| Monday  | Tuesday   | Wednesday  | Thursday  | Friday  |  
 
 # Registration
 
