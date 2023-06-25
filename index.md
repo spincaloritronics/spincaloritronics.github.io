@@ -13,13 +13,13 @@ Utrecht ([2016](https://web.science.uu.nl/spincaloritronics7/introduction.htm)),
 Regensburg (2017), 
 Groningen (2019), 
 Urbana-Champaign ([2022](https://cem.osu.edu/2022-workshop-spin-caloritronics-xi/)), 
-Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).	
+and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).	
 
 # Organizers
 
-* Prof. Jiang XIAO (Chair), Fudan University 
-* Prof. Gerrit E. W. BAUER, KITS-UCAS and Tohoku University
-* Prof. Wanjun JIANG, Tsinghua Unviersity
+* Jiang XIAO (Chair), Fudan University 
+* Gerrit E. W. BAUER, KITS-UCAS and Tohoku University
+* Wanjun JIANG, Tsinghua Unviersity
 
 # Scientific Advisory Board
 
