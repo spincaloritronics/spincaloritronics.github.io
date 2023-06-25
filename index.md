@@ -53,10 +53,13 @@ Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 |16:00-16:30|              |              |              |              |              |
 |16:30-17:00|              |              |  _Banquet_   |              |              |
 
-# Application & Registration
+# Application
 
 * Please fill out this form to apply for the workshop before this date.
 * The accepted applicants will be notified by email before this date.
+
+# Registration
+
 * For invited speakers and accepted attendees, please fill this form for online registration before this date.
 
 # Venue & Hotel
