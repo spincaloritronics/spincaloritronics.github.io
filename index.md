@@ -25,3 +25,5 @@ The Spin Caloritornics workshops had been previously held in Leiden (2009, 2011)
 # Venue
 
 # Sponsors
+
+![support](./assets/kits-fudan.png)
