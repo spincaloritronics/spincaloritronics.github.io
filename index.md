@@ -26,7 +26,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 
 * Axel Hoffmann, UIUC, USA
 * Burkard Hillebrands, TU Kaiserslautern, Germany
-* Fuchun Zhang, KITS, China
+* Fuchun Zhang, KITS-UCAS, China
 * Joe Barker, University of Leeds, UK
 * Kenichi Uchida, NIMS, Japan
 * Sadamichi Maekawa, RIKEN, Japan
