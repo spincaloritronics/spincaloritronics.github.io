@@ -2,9 +2,9 @@ The 13th international workshop on Spin Caloritronics will be held in Beijing in
 
 # Scope
 
-Spin caloritronics is the science and technology of coupled spin, charge, and heat transport in condensed matter and devices, a multidisciplinary discipline that emerged from common interests in spintronics and thermoelectrics and that overlaps with other fields such as optics, mechanics, and information science.
+Spin caloritronics encompasses the study of coupled spin, charge, and heat transport in condensed materials and devices. As a multidisciplinary field that intersects with spintronics, thermoelectrics, optics, mechanics, and information science, it explores the fascinating connections between these domains. 
 
-The Spin Caloritornics workshops had been previously held in 
+This workshop marks the 13th edition of the Spin Caloritronics series, which had successful iterations in 
 Leiden ([2009](https://www.lorentzcenter.nl/spin-caloritronics.html), [2011](https://www.lorentzcenter.nl/spin-caloritronics-iii.html)), 
 Sendai (2010, 2012), 
 Columbus ([2013](https://cem.osu.edu/event/spin-caloritronics-v/), [2018](https://cem.osu.edu/news/spin-cal-ix/)), 
