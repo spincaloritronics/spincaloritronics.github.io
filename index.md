@@ -39,7 +39,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 # Program
 
   TBA
-<!--
+<!---
 |           | May 20-Mon | May 21-Tue | May 22-Wed | May 23-Thu | May 24-Fri |  
 |:---------:|:----------:|:------------:|:------------:|:------------:|:------------:|
 | 9:00- 9:30|              |              |              |              |              |
@@ -56,7 +56,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 |16:00-16:30|              |              |              |              |              |
 |16:30-17:00|              |              |  _Banquet_   |              |              |
 
--->
+--->
 
 # Application
 
