@@ -20,6 +20,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 * Jiang XIAO (Chair), Fudan University 
 * Gerrit E. W. BAUER, KITS-UCAS and Tohoku University
 * Wanjun JIANG, Tsinghua Unviersity
+* Guoqiang YU, Institute of Physics, CAS
 
 # Scientific Advisory Board
 
@@ -29,7 +30,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 * Joe Barker, University of Leeds, UK
 * Kenichi Uchida, NIMS, Japan
 * Sadamichi Maekawa, RIKEN, Japan
-* Xiufeng Han, IoP, China
+* Xiufeng Han, Institute of Physics, CAS, China
   
 # Invited Speakers
 
