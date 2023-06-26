@@ -72,5 +72,3 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 For visa issue, please contact workshop secretary Mr. Peimin Yan (yanpeiming@ucas.ac.cn).
 
 # Sponsors
-
-![support](./assets/images/kits-fudan.png)
