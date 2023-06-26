@@ -32,7 +32,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 * Sadamichi Maekawa, RIKEN, Japan
 * Xiufeng Han, Institute of Physics, CAS, China
   
-# Invited Speakers
+# Confirmed Invited Speakers
 
 * TBA
 
