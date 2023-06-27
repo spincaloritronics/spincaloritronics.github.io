@@ -61,3 +61,5 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 - In some cases, a hotel reservation might be needed for visa application. If so, we recommend you to make a reservation with free cancellation policy on [booking.com](https://www.booking.com/), and cancel it after printing.
 
 # Sponsors
+
+- Please let us know if you would like to support the workshop in any means. 
