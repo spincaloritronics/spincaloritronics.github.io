@@ -17,7 +17,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 
 # Organizers
 
-- Jiang XIAO (Chair), Fudan University 
+- Jiang XIAO (Chair), Fudan University (Email: xiaojiang at fudan.edu.cn)
 - Gerrit E. W. BAUER, KITS-UCAS and Tohoku University
 - Wanjun JIANG, Tsinghua Unviersity
 - Guoqiang YU, Institute of Physics, CAS
@@ -56,7 +56,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 
 # Visa
 
-- For visa related issues, such as the official STAMPED invitation letter, please contact workshop secretary Mr. Peimin Yan (yanpeiming@ucas.ac.cn).
+- For visa related issues, such as the official STAMPED invitation letter, please contact workshop secretary Mr. Peimin Yan (yanpeiming at ucas.ac.cn).
 - In some cases, a hotel reservation might be needed for visa application. If so, we recommend you to make a reservation with free cancellation policy on [booking.com](https://www.booking.com/), and cancel it after printing.
 
 # Sponsors
