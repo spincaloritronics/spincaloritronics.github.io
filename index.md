@@ -1,4 +1,4 @@
-The 13th international workshop on Spin Caloritronics will be held in Beijing in May 20-24, 2024. Spin Caloritronics XIII will be co-organized by [Kavli Institute for Theoretical Sciences](https://kits.ucas.ac.cn/) (UCAS) and Department of Physics, [Fudan University](https://www.fudan.edu.cn).
+The 13th international workshop on Spin Caloritronics will be held in Beijing in May 20-24, 2024. Spin Caloritronics XIII will be co-organized by [Kavli Institute for Theoretical Sciences](https://kits.ucas.ac.cn/) (UCAS) and Department of Physics, [Fudan University](https://www.fudan.edu.cn). The workshop will be physically held in the KITS campus in Beijing. 
 
 This workshop marks the 13th edition of the Spin Caloritronics series, which had successful iterations in 
 Leiden ([2009](https://www.lorentzcenter.nl/spin-caloritronics.html), [2011](https://www.lorentzcenter.nl/spin-caloritronics-iii.html)), 
@@ -17,47 +17,47 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 
 # Organizers
 
-* Jiang XIAO (Chair), Fudan University 
-* Gerrit E. W. BAUER, KITS-UCAS and Tohoku University
-* Wanjun JIANG, Tsinghua Unviersity
-* Guoqiang YU, Institute of Physics, CAS
+- Jiang XIAO (Chair), Fudan University 
+- Gerrit E. W. BAUER, KITS-UCAS and Tohoku University
+- Wanjun JIANG, Tsinghua Unviersity
+- Guoqiang YU, Institute of Physics, CAS
 
 # Scientific Advisory Board
 
-* Axel Hoffmann, UIUC, USA
-* Burkard Hillebrands, TU Kaiserslautern, Germany
-* Fuchun Zhang, KITS-UCAS, China
-* Joe Barker, University of Leeds, UK
-* Kenichi Uchida, NIMS, Japan
-* Sadamichi Maekawa, RIKEN, Japan
-* Xiufeng Han, Institute of Physics, CAS, China
+- Axel Hoffmann, UIUC, USA
+- Burkard Hillebrands, TU Kaiserslautern, Germany
+- Fuchun Zhang, KITS-UCAS, China
+- Joe Barker, University of Leeds, UK
+- Kenichi Uchida, NIMS, Japan
+- Sadamichi Maekawa, RIKEN, Japan
+- Xiufeng Han, Institute of Physics, CAS, China
   
 # Confirmed Invited Speakers
 
-* TBA
+- TBA
 
 # Program
 
-  TBA
+- TBA
 
 # Application
 
-* Please fill out this form to apply for the workshop before this date.
-* The accepted applicants will be notified by email before this date.
+- Please fill out this form to apply for the workshop before this date.
+- The accepted applicants will be notified by email before this date.
 
 # Registration
 
-* For invited speakers and accepted attendees, please fill this form for online registration before this date.
+- For invited speakers and accepted attendees, please fill this form for online registration before this date.
 
 # Venue & Hotel
 
-* Workshop Venue: Meeting room at UCAS campus
-* Recommended Hotel: [Park Plaza Beijing Science Park](https://tinyurl.com/4e8rv3xf) / 北京丽亭华苑酒店
+- Workshop Venue: Meeting room at UCAS campus
+- Recommended Hotel: [Park Plaza Beijing Science Park](https://tinyurl.com/4e8rv3xf) / 北京丽亭华苑酒店
 
 # Visa
 
-  For visa related issues, such as the official STAMPED invitation letter, please contact workshop secretary Mr. Peimin Yan (yanpeiming@ucas.ac.cn).
+- For visa related issues, such as the official STAMPED invitation letter, please contact workshop secretary Mr. Peimin Yan (yanpeiming@ucas.ac.cn).
 
-  In some cases, a hotel reservation might be needed for visa application. If so, we recommend you to make a reservation with free cancellation policy on [booking.com](https://www.booking.com/), and cancel the reservation after print out the reservation.
+- In some cases, a hotel reservation might be needed for visa application. If so, we recommend you to make a reservation with free cancellation policy on [booking.com](https://www.booking.com/), and cancel it after printing.
 
 # Sponsors
