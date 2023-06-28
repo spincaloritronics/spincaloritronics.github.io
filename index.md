@@ -11,18 +11,18 @@ Groningen (2019),
 Urbana-Champaign ([2022](https://cem.osu.edu/2022-workshop-spin-caloritronics-xi/)), 
 and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).	
 
-# Scope
+## Scope
 
 Spin caloritronics encompasses the study of coupled spin, charge, and heat transport in condensed materials and devices. As a multidisciplinary field that intersects with spintronics, thermoelectrics, optics, mechanics, and information science, it explores the fascinating connections between these domains. 
 
-# Organizers
+## Organizers
 
 - Jiang XIAO (Chair), Fudan University (Email: xiaojiang at fudan.edu.cn)
 - Gerrit E. W. BAUER, KITS-UCAS and Tohoku University
 - Wanjun JIANG, Tsinghua Unviersity
 - Guoqiang YU, Institute of Physics, CAS
 
-# Scientific Advisory Board
+## Scientific Advisory Board
 
 - Axel Hoffmann, UIUC, USA
 - Burkard Hillebrands, TU Kaiserslautern, Germany
@@ -32,33 +32,33 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 - Sadamichi Maekawa, RIKEN, Japan
 - Xiufeng Han, Institute of Physics, CAS, China
   
-# Confirmed Invited Speakers
+## Confirmed Invited Speakers
 
 - TBA
 
-# Program
+## Program
 
 - TBA
 
-# Application
+## Application
 
 - Please fill out this form to apply for the workshop before this date.
 - The accepted applicants will be notified by email before this date.
 
-# Registration
+## Registration
 
 - For invited speakers and accepted attendees, please fill this form for online registration before this date.
 
-# Venue & Hotel
+## Venue & Hotel
 
 - Workshop Venue: Meeting room at UCAS campus
 - Recommended Hotel: [Park Plaza Beijing Science Park](https://tinyurl.com/4e8rv3xf) / 北京丽亭华苑酒店
 
-# Visa
+## Visa
 
 - For visa related issues, such as the official STAMPED invitation letter, please contact workshop assistant Mr. Peimin Yan (yanpeiming at ucas.ac.cn).
 - In some cases, a hotel reservation might be needed for visa application. If so, we recommend you to make a reservation with free cancellation policy on [booking.com](https://www.booking.com/), and cancel it after printing.
 
-# Sponsors
+## Sponsors
 
 - Please let us know if you would like to support the workshop in any means. 
