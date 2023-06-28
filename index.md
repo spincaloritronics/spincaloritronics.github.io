@@ -56,7 +56,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 
 # Visa
 
-- For visa related issues, such as the official STAMPED invitation letter, please contact workshop secretary Mr. Peimin Yan (yanpeiming at ucas.ac.cn).
+- For visa related issues, such as the official STAMPED invitation letter, please contact workshop assistant Mr. Peimin Yan (yanpeiming at ucas.ac.cn).
 - In some cases, a hotel reservation might be needed for visa application. If so, we recommend you to make a reservation with free cancellation policy on [booking.com](https://www.booking.com/), and cancel it after printing.
 
 # Sponsors
