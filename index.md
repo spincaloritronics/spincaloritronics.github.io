@@ -49,6 +49,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 1. **Sadamichi Maekawa** - RIKEN, Japan
 1. **Mamoru Matsuo** - KITS, UCAS, China
 1. **Shuichi Murakami** - Tokyo Institute of Technology, Japan
+1. **Tianxiang Nan** - Tsinghua University, China
 1. **Teruo Ono** - Kyoto University, Japan
 1. **Yoshichika Otani** - University of Tokyo, Japan
 1. **Stuart Parkin** - Max Planck Institute of Microstructure Physics, Germany
