@@ -45,6 +45,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 1. **Mathias Kläui** - Johannes Gutenberg-University Mainz, Germany
 1. **Oliver Klein** - Université Grenoble Alpes, France
 1. **Timo Kuschel** - Bielefeld University, Germany
+1. **Silvia Viola Kusminskiy** - RWTH Aachen University, Germany
 1. **Kyung-Jin Lee** - KAIST, South Korea
 1. **Sadamichi Maekawa** - RIKEN, Japan
 1. **Mamoru Matsuo** - KITS, UCAS, China
