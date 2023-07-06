@@ -1,19 +1,22 @@
-The 13th international workshop on Spin Caloritronics will be held in Beijing in May 20-24, 2024. Spin Caloritronics XIII will be co-organized by [Kavli Institute for Theoretical Sciences](https://kits.ucas.ac.cn/) (UCAS) and Department of Physics, [Fudan University](https://www.fudan.edu.cn). The workshop will be physically held in the KITS campus in Beijing. 
+The 13th international workshop on Spin Caloritronics will be held in Beijing in May 20-24, 2024. Spin Caloritronics XIII will be co-organized by 
+[Kavli Institute for Theoretical Sciences](https://kits.ucas.ac.cn/) (UCAS) and 
+Department of Physics, [Fudan University](https://www.fudan.edu.cn). 
+The workshop will be physically held in the KITS campus in Beijing.
 
-This workshop marks the 13th edition of the Spin Caloritronics series, which had successful iterations in 
-Leiden ([2009](https://www.lorentzcenter.nl/spin-caloritronics.html), [2011](https://www.lorentzcenter.nl/spin-caloritronics-iii.html)), 
-Sendai (2010, 2012), 
-Columbus ([2013](https://cem.osu.edu/event/spin-caloritronics-v/), [2018](https://cem.osu.edu/news/spin-cal-ix/)), 
-Irsee (2014), 
+This workshop marks the 13th edition of the Spin Caloritronics series, which had successful iterations in
+Leiden ([2009](https://www.lorentzcenter.nl/spin-caloritronics.html), [2011](https://www.lorentzcenter.nl/spin-caloritronics-iii.html)),
+Sendai (2010, 2012),
+Columbus ([2013](https://cem.osu.edu/event/spin-caloritronics-v/), [2018](https://cem.osu.edu/news/spin-cal-ix/)),
+Irsee (2014),
 Utrecht ([2016](https://web.science.uu.nl/spincaloritronics7/introduction.htm)),
-Regensburg (2017), 
-Groningen (2019), 
-Urbana-Champaign ([2022](https://cem.osu.edu/2022-workshop-spin-caloritronics-xi/)), 
-and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).	
+Regensburg (2017),
+Groningen (2019),
+Urbana-Champaign ([2022](https://cem.osu.edu/2022-workshop-spin-caloritronics-xi/)),
+and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 
 ## Scope
 
-Spin caloritronics encompasses the study of coupled spin, charge, and heat transport in condensed materials and devices. As a multidisciplinary field that intersects with spintronics, thermoelectrics, optics, mechanics, and information science, it explores the fascinating connections between these domains. 
+Spin caloritronics encompasses the study of coupled spin, charge, and heat transport in condensed materials and devices. As a multidisciplinary field that intersects with spintronics, thermoelectrics, optics, mechanics, and information science, it explores the fascinating connections between these domains.
 
 ## Organizers
 
@@ -63,6 +66,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 1. **Kei Yamamoto** - ASRC, JAEA, Japan
 1. **Haiming Yu** - Beihang University, China
 1. **Tao Yu** - Huazhong University of Science and Technology, China
+1. **Barry Zink** - University of Denver, USA
 
 ## Program
 
