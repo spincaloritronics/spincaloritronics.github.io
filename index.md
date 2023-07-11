@@ -41,6 +41,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 1. **Joesph Barker** - University of Leeds, UK
 1. **Jianhao Chen** - Peking University, China
 1. **Rembert Duine** - Utrecht University, The Netherlands
+1. **Olena Gomonay** - Johannes Gutenberg-University Mainz, Germany
 1. **Axel Hoffmann** - UIUC, USA
 1. **Joseph Heremans** - Ohio State University, USA
 1. **Burkard Hillebrands** - TU Kaiserslautern, Germany
