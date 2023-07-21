@@ -27,13 +27,13 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 
 ## Scientific Advisory Board
 
-- Axel Hoffmann, UIUC, USA
-- Burkard Hillebrands, TU Kaiserslautern, Germany
-- Fuchun Zhang, KITS-UCAS, China
 - Joe Barker, University of Leeds, UK
-- Kenichi Uchida, NIMS, Japan
-- Sadamichi Maekawa, RIKEN, Japan
 - Xiufeng Han, Institute of Physics, CAS, China
+- Burkard Hillebrands, TU Kaiserslautern, Germany
+- Axel Hoffmann, UIUC, USA
+- Sadamichi Maekawa, RIKEN, Japan
+- Kenichi Uchida, NIMS, Japan
+- Fuchun Zhang, KITS-UCAS, China
   
 ## Confirmed Invited Speakers
 
