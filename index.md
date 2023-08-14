@@ -59,11 +59,13 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 1. **Yoshichika Otani** - University of Tokyo, Japan
 1. **Stuart Parkin** - Max Planck Institute of Microstructure Physics, Germany
 1. **Eiji Saitoh** - University of Tokyo, Japan
+1. **Libor Šmejkal** - Johannes Gutenberg-University Mainz, Germany
 1. **Cheng Song** - Tsinghua University, China
 1. **Yaroslav Tserkovnyak** - UCLA, USA
 1. **Kenichi Uchida** - NIMS, Japan
 1. **Caihua Wan** - Institue of Physics, CAS, China
 1. **Yizheng Wu** - Fudan University, China
+1. **Bart van Wees** - University of Groningen, The Netherlands
 1. **Kei Yamamoto** - ASRC, JAEA, Japan
 1. **Haiming Yu** - Beihang University, China
 1. **Tao Yu** - Huazhong University of Science and Technology, China
