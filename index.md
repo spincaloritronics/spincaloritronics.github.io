@@ -41,6 +41,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 ## Confirmed Invited Speakers
 
 1. **Hiroto Adachi** - Okayama University, Japan
+1. **Christian Back** - Technische Universität München, Germany
 1. **Joesph Barker** - University of Leeds, UK
 1. **Jianhao Chen** - Peking University, China
 1. **Andrii Chumak** - University of Vienna, Austria
