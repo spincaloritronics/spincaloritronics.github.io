@@ -116,7 +116,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 
 ## Visa
 
-- As of the new visa policies effective during Dec. 1, 2023 - Nov. 30, 2024, citizens from France, Germany, Italy, The Netherlands, Spain, and Malaysia can enter China without visa.   
+- As of the new visa policies effective during Dec. 1, 2023 - Nov. 30, 2024, travellers with passports from France, Germany, Italy, The Netherlands, Spain, and Malaysia can enter China without visa.   
 - For visa related issues, such as the official invitation letter, please contact workshop assistant Ms. Nan Jin (Tracy), jinnan [at] ucas.ac.cn.
 - In some cases, a hotel reservation might be needed for visa application. If so, we recommend you to make a reservation with free cancellation policy on [booking.com](https://www.booking.com/), and cancel it after printing.
 
