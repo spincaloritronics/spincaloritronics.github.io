@@ -25,6 +25,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 - Wanjun Jiang, Tsinghua Unviersity
 - Guoqiang Yu, Institute of Physics, CAS
 - Fuchun Zhang, KITS-UCAS
+- Ms. Nan Jin (Secretary), KITS-UCAS (Email: jinnan at ucas.ac.cn) 
 
 <!--
 ## Scientific Advisory Board
@@ -78,7 +79,24 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 
 ## Program
 
-- TBA
+|           |May 19 / Sun|May 20 / Mon|May 21 / Tue|May 22 / Wed|May 23 / Thu|May 24 / Fri|  
+|:---------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+|08:45-09:00|            | _Opening_  |            | _Excursion_|            |            |
+|09:00-09:30|            | **Talk**   | **Talk**   |            | **Talk**   | **Talk**   |
+|09:30-10:00|            | **Talk**   | **Talk**   |            | **Talk**   | **Talk**   |
+|10:00-10:30|            | **Talk**   | **Talk**   |            | **Talk**   | **Talk**   |
+|10:30-11:00|            | Coffee & Poster| Coffee & Poster|            | Coffee & Poster| Coffee & Poster|
+|11:00-11:30|            | **Talk**   | **Talk**   |            | **Talk**   | **Talk**   |
+|11:30-12:00|            | **Talk**   | **Talk**   |            | **Talk**   | **Talk**   |
+|12:00-12:30|            | **Talk**   | **Talk**   |            | **Talk**   | **Talk**   |
+|12:30-14:00|            | _Lunch_    | _Lunch_    |            | _Lunch_    | _Lunch_    |
+|14:00-14:30| Registration | **Talk**   | **Talk**   |            | **Talk**   | **Talk**  |
+|14:30-15:00| Registration | **Shotgun pre.**| **Talk**   |            | **Talk**   | **Talk**   |
+|15:00-15:30|  Registration | Coffee & Poster| Coffee & Poster|            | Coffee & Poster| Coffee & Poster|
+|15:30-16:00| Registration | **Talk**   | **Talk**   |            | **Talk** | **Talk**   |
+|16:00-16:30| Registration | **Talk**   | **Talk**   |            | **Panel Discussion**| **Talk**   |
+|16:30-17:00| Registration | **Talk**   | **Talk**   |            | **on Spin Caloritronics**   | _Closing_  |
+|17:00-20:00| _Free_     | _Free_     | _Free_     |  _Banquet_ | _Free_    | _Free_   |
 
 ## Application
 
@@ -96,7 +114,8 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 
 ## Visa
 
-- For visa related issues, such as the official STAMPED invitation letter, please contact workshop assistant Mr. Peimin Yan (yanpeiming at ucas.ac.cn).
+- As of the new visa policies effective during Dec. 1, 2023 - Nov. 30, 2024, citizens from France, Germany, Italy, The Netherlands, Spain, and Malaysia can enter China without visa.   
+- For visa related issues, such as the official STAMPED invitation letter, please contact workshop assistant Ms. Nan Jin (Tracy), jinnan [at] ucas.ac.cn.
 - In some cases, a hotel reservation might be needed for visa application. If so, we recommend you to make a reservation with free cancellation policy on [booking.com](https://www.booking.com/), and cancel it after printing.
 
 ## Sponsors
