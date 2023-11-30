@@ -14,7 +14,7 @@ Groningen (2019),
 Urbana-Champaign ([2022](https://cem.osu.edu/2022-workshop-spin-caloritronics-xi/)),
 and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 
-All presentations will be by invitation only. We urge all researchers to participate in the workshop. However, due to constraints of the conference venue and other resources, we must restrict the number of attendees. If you wish to attend the workshop, please visit the [Application section](#application) below to submit your application.
+All presentations will be by invitation only. We urge all researchers to participate in the workshop via poster presentations. If you wish to attend the workshop, please visit the [Application section](#application) below to submit your application.
 
 ## Scope
 
@@ -27,7 +27,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 - Wanjun Jiang, Tsinghua Unviersity
 - Guoqiang Yu, Institute of Physics, CAS
 - Fuchun Zhang, KITS-UCAS
-- Ms. Nan Jin (Secretary), KITS-UCAS (Email: jinnan at ucas.ac.cn) 
+- Ms. Nan Jin (Assistant), KITS-UCAS (Email: jinnan at ucas.ac.cn) 
 
 <!--
 ## Scientific Advisory Board
@@ -117,7 +117,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 ## Visa
 
 - As of the new visa policies effective during Dec. 1, 2023 - Nov. 30, 2024, citizens from France, Germany, Italy, The Netherlands, Spain, and Malaysia can enter China without visa.   
-- For visa related issues, such as the official STAMPED invitation letter, please contact workshop assistant Ms. Nan Jin (Tracy), jinnan [at] ucas.ac.cn.
+- For visa related issues, such as the official invitation letter, please contact workshop assistant Ms. Nan Jin (Tracy), jinnan [at] ucas.ac.cn.
 - In some cases, a hotel reservation might be needed for visa application. If so, we recommend you to make a reservation with free cancellation policy on [booking.com](https://www.booking.com/), and cancel it after printing.
 
 ## Sponsors
