@@ -14,6 +14,8 @@ Groningen (2019),
 Urbana-Champaign ([2022](https://cem.osu.edu/2022-workshop-spin-caloritronics-xi/)),
 and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 
+All presentations will be by invitation only. We urge all researchers to participate in the workshop. However, due to constraints of the conference venue and other resources, we must restrict the number of attendees. If you wish to attend the workshop, please visit the [Application section](#application) below to submit your application.
+
 ## Scope
 
 Spin caloritronics encompasses the study of coupled spin, charge, and heat transport in condensed materials and devices. As a multidisciplinary field that intersects with spintronics, thermoelectrics, optics, mechanics, and information science, it explores the fascinating connections between these domains.
