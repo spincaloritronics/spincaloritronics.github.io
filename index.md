@@ -27,12 +27,12 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 
 # Organizers
 
-- Jiang Xiao (Chair), Fudan University (Email: xiaojiang at fudan.edu.cn)
-- Gerrit E. W. Bauer, KITS-UCAS and Tohoku University
-- Wanjun Jiang, Tsinghua Unviersity
-- Guoqiang Yu, Institute of Physics, CAS
-- Fuchun Zhang, KITS-UCAS
-- Ms. Nan Jin (Assistant), KITS-UCAS (Email: jinnan at ucas.ac.cn) 
+- **Jiang Xiao** (Chair), Fudan University (Email: xiaojiang at fudan.edu.cn)
+- **Gerrit E. W. Bauer**, KITS-UCAS and Tohoku University
+- **Wanjun Jiang**, Tsinghua Unviersity
+- **Guoqiang Yu**, Institute of Physics, CAS
+- **Fuchun Zhang**, KITS-UCAS
+- **Nan Jin** (Assistant), KITS-UCAS (Email: jinnan at ucas.ac.cn) 
 
 <!--
 ## Scientific Advisory Board
