@@ -3,7 +3,9 @@ The 13th international workshop on Spin Caloritronics will be held in Beijing in
 [State Key Laboratary of Surface Science](https://surface.fudan.edu.cn) (Fudan University). 
 <!--The workshop will be physically held in the KITS campus in Beijing.-->
 
+<!--
 <img src="../assets/images/logo2.png" alt="logo" width="400"/>
+-->
 
 This workshop marks the 13th edition of the Spin Caloritronics series, which had successful iterations in
 Leiden ([2009](https://www.lorentzcenter.nl/spin-caloritronics.html), [2011](https://www.lorentzcenter.nl/spin-caloritronics-iii.html)),
