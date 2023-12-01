@@ -130,4 +130,4 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 
 - Please let us know if you would like to support the workshop in any means. 
 
-<img src="../assets/images/logo2.png" alt="logo" width="800"/>
+<img src="../assets/images/logo3.png" alt="logo" width="800"/>
