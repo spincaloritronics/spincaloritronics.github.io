@@ -16,11 +16,11 @@ and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 
 All talks will be by invitation only. **If you wish to attend the workshop and/or present a poster, please visit the [__Application section__](#application) below to submit your application.**
 
-## Scope
+# Scope
 
 Spin caloritronics encompasses the study of coupled spin, charge, and heat transport in condensed materials and devices. As a multidisciplinary field that intersects with spintronics, thermoelectrics, optics, mechanics, and information science, it explores the fascinating connections between these domains.
 
-## Organizers
+# Organizers
 
 - Jiang Xiao (Chair), Fudan University (Email: xiaojiang at fudan.edu.cn)
 - Gerrit E. W. Bauer, KITS-UCAS and Tohoku University
@@ -41,7 +41,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 - Fuchun Zhang, KITS-UCAS, China
 -->
   
-## Confirmed Invited Speakers
+# Confirmed Invited Speakers
 
 1. **Hiroto Adachi** - Okayama University, Japan
 1. **Christian Back** - Technische Universität München, Germany
@@ -79,7 +79,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 1. **Tao Yu** - Huazhong University of Science and Technology, China
 1. **Barry Zink** - University of Denver, USA
 
-## Program
+# Program
 
 |           |May 19      |May 20      |May 21      |May 22      |May 23      |May 24      |  
 |           |Sunday      |Monday      |Tuesday     |Wednesday   |Thursday    |Friday      |  
@@ -101,26 +101,26 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 |16:30-17:00| "          | **Talk**   | **Talk**   |            | **on Spin Caloritronics**   | _Closing_  |
 |17:00-20:00| _Free_     | _Free_     | _Free_     |  _Banquet_ | _Free_    | _Free_   |
 
-## Application
+# Application
 
 - **Please fill out this [application form](https://www.wenjuan.com/s/UnyEBvP/) to apply for the workshop (deadline: April 1, 2024).**
 - The accepted applicants will be notified by email.
 
-## Registration
+# Registration
 
 - For invited speakers and accepted attendees, please fill this form for online registration before this date.
 
-## Venue & Hotel
+# Venue & Hotel
 
 - Workshop Venue: Meeting room at UCAS campus
 - Recommended Hotel: [Park Plaza Beijing Science Park](https://tinyurl.com/4e8rv3xf) / 北京丽亭华苑酒店
 
-## Visa
+# Visa
 
 - As of the new visa policies effective during Dec. 1, 2023 - Nov. 30, 2024, travellers with passports from France, Germany, Italy, The Netherlands, Spain, and Malaysia can enter China without visa.   
 - For visa related issues, such as the official invitation letter, please contact workshop assistant Ms. Nan Jin (Tracy), jinnan [at] ucas.ac.cn.
 - In some cases, a hotel reservation might be needed for visa application. If so, we recommend you to make a reservation with free cancellation policy on [booking.com](https://www.booking.com/), and cancel it after printing.
 
-## Sponsors
+# Sponsors
 
 - Please let us know if you would like to support the workshop in any means. 
