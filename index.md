@@ -1,3 +1,5 @@
+<img align="right" width="200" height="260" src="../assets/images/SC13-logo.png">
+
 The 13th international workshop on Spin Caloritronics will be held in Beijing in May 20-24, 2024. Spin Caloritronics XIII will be co-organized by 
 [Kavli Institute for Theoretical Sciences](https://kits.ucas.ac.cn/) (UCAS) and 
 [State Key Laboratary of Surface Science](https://surface.fudan.edu.cn) (Fudan University). 
@@ -6,8 +8,6 @@ The 13th international workshop on Spin Caloritronics will be held in Beijing in
 <!--
 <img src="../assets/images/logo2.png" alt="logo" width="400"/>
 -->
-
-<img align="right" width="200" height="260" src="../assets/images/SC13-logo.png">
 
 This workshop marks the 13th edition of the Spin Caloritronics series, which had successful iterations in
 Leiden ([2009](https://www.lorentzcenter.nl/spin-caloritronics.html), [2011](https://www.lorentzcenter.nl/spin-caloritronics-iii.html)),
