@@ -7,6 +7,8 @@ The 13th international workshop on Spin Caloritronics will be held in Beijing in
 <img src="../assets/images/logo2.png" alt="logo" width="400"/>
 -->
 
+<img align="right" width="200" height="260" src="../assets/images/SC13-logo.png">
+
 This workshop marks the 13th edition of the Spin Caloritronics series, which had successful iterations in
 Leiden ([2009](https://www.lorentzcenter.nl/spin-caloritronics.html), [2011](https://www.lorentzcenter.nl/spin-caloritronics-iii.html)),
 Sendai (2010, 2012),
