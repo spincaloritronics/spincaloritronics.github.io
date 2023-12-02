@@ -59,6 +59,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 1. **Joseph Heremans** - Ohio State University, USA
 1. **Burkard Hillebrands** - TU Kaiserslautern, Germany
 1. **Dazhi Hou**, USTC, China
+1. **Alexey Kimel** - Radboud University, The Netherlands
 1. **Mathias Kläui** - Johannes Gutenberg-University Mainz, Germany
 1. **Oliver Klein** - Université Grenoble Alpes, France
 1. **Timo Kuschel** - Bielefeld University, Germany
@@ -101,9 +102,9 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 |14:00-14:30|Registration| **Talk**   | **Talk**   |            | **Talk**   | **Talk**  |
 |14:30-15:00| "          | **Shotgun pre.**| **Talk**   |       | **Talk**   | **Talk**   |
 |15:00-15:30| "          | Coffee & Poster| Coffee & Poster|    | Coffee & Poster| Coffee & Poster|
-|15:30-16:00| "          | **Talk**   | **Talk**   |            | **Talk** | **Talk**   |
-|16:00-16:30| "          | **Talk**   | **Talk**   |            | **Panel Discussion**| **Talk**   |
-|16:30-17:00| "          | **Talk**   | **Talk**   |            | **on Spin Caloritronics**   | _Closing_  |
+|15:30-16:00| "          | **Talk**   | **Talk**   |            | **Panel Discussion** | **Talk**   |
+|16:00-16:30| "          | **Talk**   | **Talk**   |            | **on**| **Talk**   |
+|16:30-17:00| "          | **Talk**   | **Talk**   |            | **Spin Caloritronics**   | _Closing_  |
 |17:00-20:00| _Free_     | _Free_     | _Free_     |  _Banquet_ | _Free_    | _Free_   |
 
 # Application
