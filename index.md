@@ -50,7 +50,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 
 1. **Hiroto Adachi** - Okayama University, Japan
 1. **Christian Back** - Technische Universität München, Germany
-1. **Joesph Barker** - University of Leeds, UK
+1. **Joseph Barker** - University of Leeds, UK
 1. **Jianhao Chen** - Peking University, China
 1. **Andrii Chumak** - University of Vienna, Austria
 1. **Rembert Duine** - Utrecht University, The Netherlands
@@ -114,6 +114,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 
 # Registration
 
+- Thanks to support from KITS and Fudan, there will be no registration fees for attending the workshop.
 - For invited speakers and accepted attendees, please fill this form for online registration before this date.
 
 # Venue & Hotel
@@ -123,7 +124,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 
 # Visa
 
-- As of the new visa policies effective during Dec. 1, 2023 - Nov. 30, 2024, travellers with passports from France, Germany, Italy, The Netherlands, Spain, and Malaysia can enter China without visa.   
+- Under the [new visa policy](https://english.www.gov.cn/news/202311/24/content_WS656067a2c6d0868f4e8e196d.html), from Dec. 1, 2023 to Nov. 30, 2024, holders of ordinary passports from France, Germany, Italy, the Netherlands, Spain and Malaysia may enter China visa-free for business, tourism, visiting relatives and friends and transit for no more than 15 days.   
 - For visa related issues, such as the official invitation letter, please contact workshop assistant Ms. Nan Jin (Tracy), jinnan [at] ucas.ac.cn.
 - In some cases, a hotel reservation might be needed for visa application. If so, we recommend you to make a reservation with free cancellation policy on [booking.com](https://www.booking.com/), and cancel it after printing.
 
