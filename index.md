@@ -46,7 +46,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 - Fuchun Zhang, KITS-UCAS, China
 -->
   
-# Confirmed Speakers
+# Invited Speakers
 
 1. **Hiroto Adachi** - Okayama University, Japan
 1. **Christian Back** - Technische Universität München, Germany
