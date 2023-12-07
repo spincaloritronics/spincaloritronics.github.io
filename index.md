@@ -79,7 +79,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 1. **Cheng Song** - Tsinghua University, China
 1. **Yaroslav Tserkovnyak** - University of California, Los Angeles (UCLA), USA
 1. **Kenichi Uchida** - National Institute for Materials Science (NIMS), Japan
-1. **Thierry Valet** - 
+1. **Thierry Valet** - Université Grenoble Alpes, France
 1. **Caihua Wan** - Institue of Physics, CAS, China
 1. **Yizheng Wu** - Fudan University, China
 1. **Bart van Wees** - University of Groningen, The Netherlands
