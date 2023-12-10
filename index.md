@@ -48,46 +48,46 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
   
 # Invited Speakers
 
-1. **Hiroto Adachi** - Okayama University, Japan
-1. **Christian Back** - Technische Universität München, Germany
-1. **Joseph Barker** - University of Leeds, UK
-1. **Jianhao Chen** - Peking University, China
-1. **Andrii Chumak** - University of Vienna, Austria
-1. **Rembert Duine** - Utrecht University, The Netherlands
-1. **Olena Gomonay** - Johannes Gutenberg University Mainz, Germany
-1. **Axel Hoffmann** - University of Illinois Urbana-Champaign (UIUC), USA
-1. **Joseph Heremans** - Ohio State University, USA
-1. **Burkard Hillebrands** - Technische Universität Kaiserslautern, Germany
-1. **Dazhi Hou**, University of Science and Technology of China (USTC), China
-1. **Can-ming Hu**, University of Manitoba, Canada
-1. **Alexey Kimel** - Radboud University, The Netherlands
-1. **Mathias Kläui** - Johannes Gutenberg University Mainz, Germany
-1. **Oliver Klein** - Université Grenoble Alpes, France
-1. **Timo Kuschel** - Bielefeld University, Germany
-1. **Silvia Viola Kusminskiy** - RWTH Aachen University, Germany
-1. **Kyung-Jin Lee** - Korea Advanced Institute of Science & Technology (KAIST), South Korea
-1. **Alejandro O. Leon** - Metropolitan University of Technology, Chile
-1. **Zhaochu Luo** - Peking University, China
-1. **Sadamichi Maekawa** - RIKEN, Japan
-1. **Mamoru Matsuo** - Kavli Institute for Theoretical Sciences(KITS), UCAS, China
-1. **Shuichi Murakami** - Tokyo Institute of Technology, Japan
-1. **Tianxiang Nan** - Tsinghua University, China
-1. **Teruo Ono** - Kyoto University, Japan
-1. **Yoshichika Otani** - University of Tokyo, Japan
-1. **Stuart Parkin** - Max Planck Institute of Microstructure Physics, Germany
-1. **Eiji Saitoh** - University of Tokyo, Japan
-1. **Libor Šmejkal** - Johannes Gutenberg University Mainz, Germany
-1. **Cheng Song** - Tsinghua University, China
-1. **Yaroslav Tserkovnyak** - University of California, Los Angeles (UCLA), USA
-1. **Kenichi Uchida** - National Institute for Materials Science (NIMS), Japan
-1. **Thierry Valet** - Université Grenoble Alpes, France
-1. **Caihua Wan** - Institue of Physics, CAS, China
-1. **Yizheng Wu** - Fudan University, China
-1. **Bart van Wees** - University of Groningen, The Netherlands
-1. **Kei Yamamoto** - Advanced Science Research Center (ASRC), JAEA, Japan
-1. **Haiming Yu** - Beihang University, China
-1. **Tao Yu** - Huazhong University of Science and Technology, China
-1. **Barry Zink** - University of Denver, USA
+- **Hiroto Adachi** - Okayama University, Japan
+- **Christian Back** - Technische Universität München, Germany
+- **Joseph Barker** - University of Leeds, UK
+- **Jianhao Chen** - Peking University, China
+- **Andrii Chumak** - University of Vienna, Austria
+- **Rembert Duine** - Utrecht University, The Netherlands
+- **Olena Gomonay** - Johannes Gutenberg University Mainz, Germany
+- **Axel Hoffmann** - University of Illinois Urbana-Champaign (UIUC), USA
+- **Joseph Heremans** - Ohio State University, USA
+- **Burkard Hillebrands** - Technische Universität Kaiserslautern, Germany
+- **Dazhi Hou**, University of Science and Technology of China (USTC), China
+- **Can-ming Hu**, University of Manitoba, Canada
+- **Alexey Kimel** - Radboud University, The Netherlands
+- **Mathias Kläui** - Johannes Gutenberg University Mainz, Germany
+- **Oliver Klein** - Université Grenoble Alpes, France
+- **Timo Kuschel** - Bielefeld University, Germany
+- **Silvia Viola Kusminskiy** - RWTH Aachen University, Germany
+- **Kyung-Jin Lee** - Korea Advanced Institute of Science & Technology (KAIST), South Korea
+- **Alejandro O. Leon** - Metropolitan University of Technology, Chile
+- **Zhaochu Luo** - Peking University, China
+- **Sadamichi Maekawa** - RIKEN, Japan
+- **Mamoru Matsuo** - Kavli Institute for Theoretical Sciences(KITS), UCAS, China
+- **Shuichi Murakami** - Tokyo Institute of Technology, Japan
+- **Tianxiang Nan** - Tsinghua University, China
+- **Teruo Ono** - Kyoto University, Japan
+- **Yoshichika Otani** - University of Tokyo, Japan
+- **Stuart Parkin** - Max Planck Institute of Microstructure Physics, Germany
+- **Eiji Saitoh** - University of Tokyo, Japan
+- **Libor Šmejkal** - Johannes Gutenberg University Mainz, Germany
+- **Cheng Song** - Tsinghua University, China
+- **Yaroslav Tserkovnyak** - University of California, Los Angeles (UCLA), USA
+- **Kenichi Uchida** - National Institute for Materials Science (NIMS), Japan
+- **Thierry Valet** - Université Grenoble Alpes, France
+- **Caihua Wan** - Institue of Physics, CAS, China
+- **Yizheng Wu** - Fudan University, China
+- **Bart van Wees** - University of Groningen, The Netherlands
+- **Kei Yamamoto** - Advanced Science Research Center (ASRC), JAEA, Japan
+- **Haiming Yu** - Beihang University, China
+- **Tao Yu** - Huazhong University of Science and Technology, China
+- **Barry Zink** - University of Denver, USA
 
 # Program
 
