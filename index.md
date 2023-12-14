@@ -113,7 +113,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 
 # Application
 
-- **Please fill out this [application form](https://www.wenjuan.com/s/UnyEBvP/) to apply for the workshop (deadline: April 1, 2024).**
+- **Please fill out this [application form](https://forms.office.com/r/kNWXjY8Knf) to apply for the workshop (deadline: April 1, 2024).**
 - The accepted applicants will be notified by email.
 
 # Registration
