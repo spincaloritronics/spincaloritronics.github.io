@@ -114,12 +114,12 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 # Application
 
 - **Please fill out this [application form](https://forms.office.com/r/kNWXjY8Knf) to apply for the workshop (deadline: April 1, 2024).**
-- The accepted applicants will be notified by email.
+- [The accepted applicants](accepted.md) will be notified by email.
 
 # Registration
 
-- Thanks to support from KITS and Fudan, there will be no registration fees for attending the workshop.
 - For invited speakers and accepted attendees, please fill this form for online registration before this date.
+- Thanks to the support from KITS and Fudan, there will be no registration fees for attending the workshop.
 
 # Venue & Hotel
 
