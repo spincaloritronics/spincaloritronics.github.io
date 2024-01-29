@@ -21,7 +21,7 @@ and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 
 All talks will be by invitation only. **If you wish to attend the workshop and/or present a poster, please visit the [Application section](#application) below to submit your application.**
 
-Registration is now open, please scroll down to the [registration section](#registration) to fill out the registration forms. 
+**Registration is now open, please scroll down to the [Registration section](#registration) to fill out the registration forms.**
 
 # Scope
 
@@ -120,13 +120,14 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 
 # Registration
 
-Please fill the following online registration form before May 1, 2024. There will be no registration fee.
+Please fill the online registration form before May 1, 2024. There will be no registration fee.
 - [Registration](https://forms.office.com/r/0RWveQ7s98) for invited speakers.
 - [Registration](https://forms.office.com/r/ViypDDve5B) for other paticipants, please first check if your name is in the [list of accepted applicants](accepted.md).
 
 # Venue & Hotel
 
-- Workshop Venue: Meeting room at UCAS campus
+- Workshop Venue: Meeting room at [UCAS campus](https://cn.bing.com/maps?osid=fd2413cb-a77e-44e4-9fc0-30dae2d8a0d1&cp=qnxczctpts23&lvl=17&v=2&sV=2&form=S00027)
+    - Subway stations (_Zhichunli Station_ - Line 10, _Zhichun Road Station_ - Line 10/13) are about 20 min on foot. 
 - Recommended Hotel: [Park Plaza Beijing Science Park](https://tinyurl.com/4e8rv3xf) / 北京丽亭华苑酒店
 
 # Visa
