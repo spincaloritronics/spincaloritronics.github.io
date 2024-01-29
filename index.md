@@ -21,6 +21,8 @@ and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 
 All talks will be by invitation only. **If you wish to attend the workshop and/or present a poster, please visit the [Application section](#application) below to submit your application.**
 
+Registration is now open, please scroll down to the [registration section](#registration) to fill out the registration forms. 
+
 # Scope
 
 Spin caloritronics encompasses the study of coupled spin, charge, and heat transport in condensed materials and devices. As a multidisciplinary field that intersects with spintronics, thermoelectrics, optics, mechanics, and information science, it explores the fascinating connections between these domains.
@@ -118,8 +120,9 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 
 # Registration
 
-- For invited speakers and accepted attendees, please fill this form for online registration before this date.
-- Thanks to the support from KITS and Fudan, there will be no registration fees for attending the workshop.
+Please fill the following online registration form before May 1, 2024. There will be no registration fee.
+- [Registration](https://forms.office.com/r/0RWveQ7s98) for invited speakers.
+- [Registration](https://forms.office.com/r/ViypDDve5B) for other paticipants, please first check if your name is in the [list of accepted applicants](accepted.md).
 
 # Venue & Hotel
 
