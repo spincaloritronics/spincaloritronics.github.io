@@ -62,6 +62,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 - **Burkard Hillebrands** - Technische Universität Kaiserslautern, Germany
 - **Dazhi Hou**, University of Science and Technology of China (USTC), China
 - **Can-ming Hu**, University of Manitoba, Canada
+- **Paul Kelly**, University of Twente, The Netherlands
 - **Alexey Kimel** - Radboud University, The Netherlands
 - **Mathias Kläui** - Johannes Gutenberg University Mainz, Germany
 - **Oliver Klein** - Université Grenoble Alpes, France
