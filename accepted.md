@@ -14,3 +14,5 @@
 1. Zou Ji, University of Basel
 1. Chi Sun, Norwegian University of Science and Technology
 1. Zhibo Zhao, Karlsruhe Institute of Technology
+1. Thomas Nussle, University of Leeds
+1. Reza Rouzegar, Freie Universität Berlin

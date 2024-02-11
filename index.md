@@ -56,9 +56,9 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 - **Jianhao Chen** - Peking University, China
 - **Andrii Chumak** - University of Vienna, Austria
 - **Rembert Duine** - Utrecht University, The Netherlands
-- **Olena Gomonay** - Johannes Gutenberg University Mainz, Germany
+<!-- - **Olena Gomonay** - Johannes Gutenberg University Mainz, Germany -->
 - **Axel Hoffmann** - University of Illinois Urbana-Champaign (UIUC), USA
-- **Joseph Heremans** - Ohio State University, USA
+<!-- - **Joseph Heremans** - Ohio State University, USA -->
 - **Burkard Hillebrands** - Technische Universität Kaiserslautern, Germany
 - **Dazhi Hou**, University of Science and Technology of China (USTC), China
 - **Can-ming Hu**, University of Manitoba, Canada
