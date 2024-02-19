@@ -19,7 +19,8 @@ Groningen (2019),
 Urbana-Champaign ([2022](https://cem.osu.edu/2022-workshop-spin-caloritronics-xi/)),
 and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 
-All talks will be by invitation only. **If you wish to attend the workshop and/or present a poster, please visit the [Application section](#application) below to submit your application.**
+Please note that all talks at the workshop will be by invitation only. 
+**If you are interested in attending or presenting a poster, please visit the [Application section](#application) below to submit your application. Due to space limitations in the conference room, we can only accept approximately 100 applicants. Thank you for your understanding.**
 
 **Registration is now open, please scroll down to the [Registration section](#registration) to fill out the registration forms.**
 
