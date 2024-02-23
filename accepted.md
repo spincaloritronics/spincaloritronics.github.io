@@ -9,7 +9,7 @@
 1. **Fengjun Zhuo**, ShanghaiTech University
 1. **Lin Chen**, Technical University Munich
 1. **William Huddie**, Utrecht University
-1. **Yanyan Zhu**, University of California**, Los Angeles
+1. **Yanyan Zhu**, University of California, Los Angeles
 1. **Artim Leonardo Bassant**, Utrecht university
 1. **Zou Ji**, University of Basel
 1. **Chi Sun**, Norwegian University of Science and Technology
