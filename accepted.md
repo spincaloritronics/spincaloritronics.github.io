@@ -2,6 +2,8 @@
 
 Listed in the alphabetical order of last names
 
+Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 2024 to register online for the workshop.
+
 1. **Artim Leonardo Bassant**, Utrecht University
 1. **Lin Chen**, Technical University Munich
 1. **Jianting Dong**, Huazhong University of Science and Technology
