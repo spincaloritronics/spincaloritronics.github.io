@@ -1,22 +1,37 @@
-# Accepted Applicants
+# Accepted Applicants 
 
-1. **Shiqiang Liu**, Peking University
-1. **Peng Wang**, Max Planck Institute of Microstructure Physics
-1. **Xi-Han Zhou**,	Huazhong University of Science and Technology
-1. **Zubiao Zhang**, Huazhong University of Science and Technology
-1. **Weijia Zhu**, Aalto University
-1. **Poramed Wongjom**,	Thammasat University
-1. **Fengjun Zhuo**, ShanghaiTech University
-1. **Lin Chen**, Technical University Munich
-1. **William Huddie**, Utrecht University
-1. **Yanyan Zhu**, University of California, Los Angeles
+Listed in the alphabetic order of last names
+
 1. **Artim Leonardo Bassant**, Utrecht university
-1. **Zou Ji**, University of Basel
-1. **Chi Sun**, Norwegian University of Science and Technology
-1. **Zhibo Zhao**, Karlsruhe Institute of Technology
+1. **Lin Chen**, Technical University Munich
+1. **Jianting Dong**, Huazhong University of Science and Technology
+1. **Pingfan Gu**, Peking University
+1. **Yiming Guo**,	Xiamen Univerisity/Lanzhou University
+1. **Rongzhi Huang**, Fudan University
+1. **William Huddie**, Utrecht University
+1. **Linhao Jia**, Peking university
+1. **Shiqiang Liu**, Peking University
+1. **Yi Liu**, Beijing Normal University
+1. **Bingcheng Luo**, Peking University
+1. **Ruoban Ma**, Fudan University
 1. **Thomas Nussle**, University of Leeds
 1. **Reza Rouzegar**, Freie Universität Berlin
-1. **Yi Liu**, Beijing Normal University
-1. **Huaiyang Yuan**, Zhejiang University
 1. **Zhong Shi**, Tongji University
 1. **Alessandro Sola**, INRIM
+1. **Chi Sun**, Norwegian University of Science and Technology
+1. **Peng Wang**, Max Planck Institute of Microstructure Physics
+1. **王子安**, 中国科学院合肥物质科学研究院固体所
+1. **Poramed Wongjom**,	Thammasat University
+1. **Kun Wu**, Huazhong University of Science and Technology
+1. **Guofu Xu**,	LanZhou University
+1. **Yinong Yin**, Beijing Technology and Business University
+1. **Huaiyang Yuan**, Zhejiang University
+1. **Huanyu Zhang**, Fudan University
+1. **Zubiao Zhang**, Huazhong University of Science and Technology
+1. **Zhibo Zhao**, Karlsruhe Institute of Technology
+1. **Xi-Han Zhou**,	Huazhong University of Science and Technology
+1. **Meng Zhu**, Huazhong University of Science and Technology
+1. **Weijia Zhu**, Aalto University
+1. **Fengjun Zhuo**, ShanghaiTech University
+1. **Yanyan Zhu**, University of California, Los Angeles
+1. **Ji Zou**, University of Basel
