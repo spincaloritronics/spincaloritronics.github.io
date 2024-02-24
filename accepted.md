@@ -2,14 +2,14 @@
 
 Listed in the alphabetical order of last names
 
-1. **Artim Leonardo Bassant**, Utrecht university
+1. **Artim Leonardo Bassant**, Utrecht University
 1. **Lin Chen**, Technical University Munich
 1. **Jianting Dong**, Huazhong University of Science and Technology
 1. **Pingfan Gu**, Peking University
-1. **Yiming Guo**,	Xiamen Univerisity/Lanzhou University
+1. **Yiming Guo**, Xiamen Univerisity/Lanzhou University
 1. **Rongzhi Huang**, Fudan University
 1. **William Huddie**, Utrecht University
-1. **Linhao Jia**, Peking university
+1. **Linhao Jia**, Peking University
 1. **Shiqiang Liu**, Peking University
 1. **Yi Liu**, Beijing Normal University
 1. **Bingcheng Luo**, Peking University
@@ -23,7 +23,7 @@ Listed in the alphabetical order of last names
 1. **王子安**, 中国科学院合肥物质科学研究院固体所
 1. **Poramed Wongjom**,	Thammasat University
 1. **Kun Wu**, Huazhong University of Science and Technology
-1. **Guofu Xu**,	LanZhou University
+1. **Guofu Xu**, Lanzhou University
 1. **Yinong Yin**, Beijing Technology and Business University
 1. **Huaiyang Yuan**, Zhejiang University
 1. **Huanyu Zhang**, Fudan University
