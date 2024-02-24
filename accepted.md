@@ -1,6 +1,6 @@
 # Accepted Applicants 
 
-Listed in the alphabetic order of last names
+Listed in the alphabetical order of last names
 
 1. **Artim Leonardo Bassant**, Utrecht university
 1. **Lin Chen**, Technical University Munich
