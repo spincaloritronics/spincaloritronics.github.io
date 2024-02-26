@@ -125,7 +125,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 
 Please fill the online registration form before May 1, 2024. There will be no registration fee.
 - [Registration](https://forms.office.com/r/0RWveQ7s98) for invited speakers.
-- [Registration](https://forms.office.com/r/ViypDDve5B) for paticipants, please first check if your name is in the [list of accepted applicants](accepted.md).
+- For general participants, please first check if your name is in the [list of accepted applicants](accepted.md) before [Registration](https://forms.office.com/r/ViypDDve5B).
 
 # Venue & Hotel
 
