@@ -19,10 +19,10 @@ Groningen (2019),
 Urbana-Champaign ([2022](https://cem.osu.edu/2022-workshop-spin-caloritronics-xi/)),
 and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 
-Please note that all talks at the workshop will be by invitation only. 
-**If you are interested in attending or presenting a poster, please visit the [Application section](#application) below to submit your application. Due to space limitations in the conference room, we can only accept approximately 100 applicants. Thank you for your understanding.**
+- Please note that all talks at the workshop will be by invitation only. 
+**If you are interested in attending or presenting a poster, please submit your application at the [Application section](#application).** Due to space limitations in the conference room, we can only accept approximately 100 applicants. Thank you for your understanding.
 
-**Registration is now open, please scroll down to the [Registration section](#registration) to fill out the registration forms.**
+- Registration is now open, for invited speakers and accepted applicants, please scroll down to the [Registration section](#registration) to fill out the registration forms.
 
 # Scope
 
@@ -118,8 +118,8 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 
 # Application
 
-- **Please fill out this [application form](https://forms.office.com/r/kNWXjY8Knf) to apply for the workshop (deadline: April 1, 2024).**
-- [The accepted applicants](accepted.md) will be notified by email.
+- **Please fill out this [application form](https://forms.office.com/r/kNWXjY8Knf) to apply for the workshop (deadline: April 1, 2024).**   
+  [The accepted applicants](accepted.md) will be notified by email.
 
 # Registration
 
