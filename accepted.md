@@ -8,6 +8,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Guozhi Chai**, Lanzhou University
 1. **Lin Chen**, Technical University Munich (poster)
 1. **Jianting Dong**, Huazhong University of Science and Technology
+1. **Zheng Feng**, Microsystem & Terahertz Research Center, CAEP
 1. **Pingfan Gu**, Peking University
 1. **Yiming Guo**, Xiamen Univerisity/Lanzhou University
 1. **Rongzhi Huang**, Fudan University
@@ -16,6 +17,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Linhao Jia**, Peking University
 1. **Jun Li**, Tongji University & University of Manitoba
 1. **Junxue Li**, Southern University of Science and Technology (poster)
+1. **Xinlu Li**, Huazhong University of Science and Technology
 1. **Shiqiang Liu**, Peking University
 1. **Yi Liu**, Beijing Normal University
 1. **Bingcheng Luo**, Peking University
