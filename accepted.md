@@ -35,6 +35,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Guofu Xu**, Lanzhou University
 1. **Xiaoqing Yang**, Nanjing University
 1. **Yinong Yin**, Beijing Technology and Business University (poster)
+1. **Hiroki Yoshida**, Tokyo Institute of Technology
 1. **Huaiyang Yuan**, Zhejiang University
 1. **Huanyu Zhang**, Fudan University (poster)
 1. **Zubiao Zhang**, Huazhong University of Science and Technology
