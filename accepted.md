@@ -7,8 +7,8 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Artim Leonardo Bassant**, Utrecht University
 1. **Guozhi Chai**, Lanzhou University
 1. **Lin Chen**, Technical University Munich (poster)
-1. **Peter Connick**, University of California, Los Angeles
-1. **Chau Dao**, University of California, Los Angeles
+1. **Peter Connick**, University of California, Los Angeles (poster)
+1. **Chau Dao**, University of California, Los Angeles (poster)
 1. **Jianting Dong**, Huazhong University of Science and Technology
 1. **Zheng Feng**, Microsystem & Terahertz Research Center, CAEP
 1. **Pingfan Gu**, Peking University
