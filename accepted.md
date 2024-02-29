@@ -21,8 +21,10 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Shiqiang Liu**, Peking University
 1. **Yi Liu**, Beijing Normal University
 1. **Bingcheng Luo**, Peking University
+1. **Bowen Ma**, The University of Hong Kong
 1. **Ruoban Ma**, Fudan University
 1. **Thomas Nussle**, University of Leeds (poster)
+1. **Zhiyong Qiu**, Dalian University of Technology
 1. **Reza Rouzegar**, Freie Universität Berlin (poster)
 1. **Zhong Shi**, Tongji University (poster)
 1. **Alessandro Sola**, INRIM (poster)
