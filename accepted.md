@@ -6,6 +6,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 
 1. **Artim Leonardo Bassant**, Utrecht University
 1. **Guozhi Chai**, Lanzhou University
+1. **Cui-Qun Chen**, Sun Yat-sen University
 1. **Lin Chen**, Technical University Munich (poster)
 1. **Peter Connick**, University of California, Los Angeles (poster)
 1. **Chau Dao**, University of California, Los Angeles (poster)
@@ -13,6 +14,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Zheng Feng**, Microsystem & Terahertz Research Center, CAEP
 1. **Pingfan Gu**, Peking University
 1. **Yiming Guo**, Xiamen Univerisity/Lanzhou University
+1. **Kang He**, Microsystem & Terahertz Research Center, CAEP
 1. **Rongzhi Huang**, Fudan University
 1. **William Huddie**, Utrecht University
 1. **Eric Kleinherbers**, University of California, Los Angeles
