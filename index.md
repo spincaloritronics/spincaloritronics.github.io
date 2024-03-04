@@ -74,7 +74,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 - **Qihang Liu** - Southern University of Science and Technology, China
 - **Zhaochu Luo** - Peking University, China
 - **Sadamichi Maekawa** - RIKEN, Japan
-- **Mamoru Matsuo** - Kavli Institute for Theoretical Sciences(KITS), UCAS, China
+- **Mamoru Matsuo** - Kavli Institute for Theoretical Sciences (KITS), UCAS, China
 - **Shuichi Murakami** - Tokyo Institute of Technology, Japan
 - **Tianxiang Nan** - Tsinghua University, China
 - **Teruo Ono** - Kyoto University, Japan
