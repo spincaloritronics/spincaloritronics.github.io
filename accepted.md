@@ -7,6 +7,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Artim Leonardo Bassant**, Utrecht University
 1. **Guozhi Chai**, Lanzhou University
 1. **Cui-Qun Chen**, Sun Yat-sen University
+1. **Di Chen**, Beijing Academy of Quantum Information Sciences
 1. **Lin Chen**, Technical University Munich (poster)
 1. **Peter Connick**, University of California, Los Angeles (poster)
 1. **Chau Dao**, University of California, Los Angeles (poster)
@@ -31,6 +32,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Thomas Nussle**, University of Leeds (poster)
 1. **Zhiyong Qiu**, Dalian University of Technology
 1. **Reza Rouzegar**, Freie Universität Berlin (poster)
+1. **Ka Shen**, Beijing Normal University
 1. **Zhong Shi**, Tongji University (poster)
 1. **Alessandro Sola**, INRIM (poster)
 1. **Chi Sun**, Norwegian University of Science and Technology (poster)
