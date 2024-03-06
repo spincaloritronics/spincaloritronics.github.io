@@ -9,7 +9,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 
 1. **Artim Leonardo Bassant**, Utrecht University
 1. _Guozhi Chai_, Lanzhou University
-1. **Cui-Qun Chen**, Sun Yat-sen University
+1. **Cui-Qun Chen**, Sun Yat-sen University (poster)
 1. _Di Chen_, Beijing Academy of Quantum Information Sciences
 1. **Lin Chen**, Technical University Munich (poster)
 1. **Peter Connick**, University of California, Los Angeles (poster)
@@ -30,7 +30,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Shiqiang Liu**, Peking University
 1. **Yi Liu**, Beijing Normal University
 1. _Bingcheng Luo_, Peking University
-1. **Bowen Ma**, The University of Hong Kong
+1. **Bowen Ma**, The University of Hong Kong (poster)
 1. _Ruoban Ma_, Fudan University
 1. _Thomas Nussle_, University of Leeds (poster)
 1. **Zhiyong Qiu**, Dalian University of Technology
@@ -46,14 +46,14 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Yutian Wang_, Fudan University (poster)
 1. _Peng Wang_, Max Planck Institute of Microstructure Physics (poster)
 1. _Zi-An Wang_, Institute of Solid State Physics, CAS
-1. **Yusuf Wicaksono**, RIKEN
+1. **Yusuf Wicaksono**, RIKEN (poster)
 1. **Poramed Wongjom**,	Thammasat University
 1. **Kun Wu**, Huazhong University of Science and Technology
 1. **Shiwei Wu**, Fudan University
 1. **Guofu Xu**, Lanzhou University
 1. _Xiaoqing Yang_, Nanjing University
-1. **Xiyin Ye**, Huazhong University of Science and Technology
-1. **Chengyuan Cai**, Huazhong University of Science and Technology
+1. **Xiyin Ye**, Huazhong University of Science and Technology (poster)
+1. **Chengyuan Cai**, Huazhong University of Science and Technology (poster)
 1. _Yinong Yin_, Beijing Technology and Business University (poster)
 1. _Hiroki Yoshida_, Tokyo Institute of Technology
 1. _Huaiyang Yuan_, Zhejiang University
