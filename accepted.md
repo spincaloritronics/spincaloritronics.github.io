@@ -35,6 +35,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Thomas Nussle_, University of Leeds (poster)
 1. **Zhiyong Qiu**, Dalian University of Technology
 1. _Reza Rouzegar_, Freie Universität Berlin (poster)
+1. **Laichuan Shen**, Beijing Normal University (poster)
 1. **Ka Shen**, Beijing Normal University
 1. _Zhong Shi_, Tongji University (poster)
 1. **Alessandro Sola**, INRIM (poster)
@@ -57,6 +58,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Hiroki Yoshida_, Tokyo Institute of Technology
 1. _Huaiyang Yuan_, Zhejiang University
 1. _Huanyu Zhang_, Fudan University (poster)
+1. **Wen Zhang**, Southeast University
 1. _Zhibo Zhao_, Karlsruhe Institute of Technology 
 1. **Xi-Han Zhou**,	Huazhong University of Science and Technology
 1. **Meng Zhu**, Huazhong University of Science and Technology
