@@ -158,7 +158,7 @@ _Magnon drag contributions to thermopower in low damping ferromagnetic metals_
 
 # Application
 
-- **Please fill out this [application form](https://forms.office.com/r/kNWXjY8Knf) to apply for the workshop (deadline: April 1, 2024).**   
+**Please fill out this [application form](https://forms.office.com/r/kNWXjY8Knf) to apply for the workshop (deadline: April 1, 2024).**   
   [The accepted applicants](accepted.md) will be notified by email.
 
 # Registration
