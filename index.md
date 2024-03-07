@@ -68,11 +68,11 @@ _Spin-orbit-torque-assisted thermal switching in Mn3Sn_
 - **Burkard Hillebrands** - Technische Universität Kaiserslautern, Germany   
 _Thermal landscapes enabling transport in magnon Bose-Einstein condensates_
 - **Dazhi Hou** - University of Science and Technology of China (USTC), China   
-_TBA_
+_Observation of the In-plane Anomalous Hall Effect induced by Octupole in Magnetization Space_
 - **Can-ming Hu** - University of Manitoba, Canada   
 _Gain-Driven Cavity Magnonics_
 - **Paul Kelly** - University of Twente, The Netherlands   
-_TBA_
+_Orbital relaxation length from first-principles scattering calculations_
 - **Alexey Kimel** - Radboud University, The Netherlands   
 _TBA_
 - **Mathias Kläui** - Johannes Gutenberg University Mainz, Germany   
