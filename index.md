@@ -74,7 +74,7 @@ _Gain-Driven Cavity Magnonics_
 - **Paul Kelly** - University of Twente, The Netherlands   
 _Orbital relaxation length from first-principles scattering calculations_
 - **Alexey Kimel** - Radboud University, The Netherlands   
-_TBA_
+_Femtosecond magnetism - terra incongina beyond the conventional approximations_
 - **Mathias Kläui** - Johannes Gutenberg University Mainz, Germany   
 _Heat generated spin and orbital currents_
 - **Oliver Klein** - Université Grenoble Alpes, France   
