@@ -28,6 +28,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Jun Li_, Tongji University & University of Manitoba
 1. _Junxue Li_, Southern University of Science and Technology (poster)
 1. **Xinlu Li**, Huazhong University of Science and Technology
+1. **Pengfei Liu**,	Institute of Semiconductors, CAS (poster)
 1. **Shiqiang Liu**, Peking University
 1. _Yi Liu_, Beijing Normal University
 1. _Bingcheng Luo_, Peking University
@@ -60,6 +61,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Yinong Yin_, Beijing Technology and Business University (poster)
 1. _Hiroki Yoshida_, Tokyo Institute of Technology
 1. _Huaiyang Yuan_, Zhejiang University
+1. **Chi Zhang**, Lanzhou University
 1. _Huanyu Zhang_, Fudan University (poster)
 1. **Wen Zhang**, Southeast University
 1. _Zhibo Zhao_, Karlsruhe Institute of Technology 
