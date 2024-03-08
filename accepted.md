@@ -29,14 +29,15 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Junxue Li_, Southern University of Science and Technology (poster)
 1. **Xinlu Li**, Huazhong University of Science and Technology
 1. **Shiqiang Liu**, Peking University
-1. **Yi Liu**, Beijing Normal University
+1. _Yi Liu_, Beijing Normal University
 1. _Bingcheng Luo_, Peking University
 1. **Bowen Ma**, The University of Hong Kong (poster)
 1. _Ruoban Ma_, Fudan University
 1. _Thomas Nussle_, University of Leeds (poster)
+1. _Shaomian Qi_, Peking University (poster)
 1. **Zhiyong Qiu**, Dalian University of Technology
 1. _Reza Rouzegar_, Freie Universität Berlin (poster)
-1. **Laichuan Shen**, Beijing Normal University (poster)
+1. _Laichuan Shen_, Beijing Normal University (poster)
 1. **Ka Shen**, Beijing Normal University
 1. _Zhong Shi_, Tongji University (poster)
 1. **Alessandro Sola**, INRIM (poster)
@@ -47,11 +48,11 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Yutian Wang_, Fudan University (poster)
 1. _Peng Wang_, Max Planck Institute of Microstructure Physics (poster)
 1. _Zi-An Wang_, Institute of Solid State Physics, CAS
-1. **Yusuf Wicaksono**, RIKEN (poster)
+1. _Yusuf Wicaksono_, RIKEN (poster)
 1. **Poramed Wongjom**,	Thammasat University
 1. **Kun Wu**, Huazhong University of Science and Technology
 1. **Shiwei Wu**, Fudan University
-1. **Guofu Xu**, Lanzhou University
+1. _Guofu Xu_, Lanzhou University
 1. **Dezheng Yang**, Lanzhou University
 1. _Xiaoqing Yang_, Nanjing University
 1. **Xiyin Ye**, Huazhong University of Science and Technology (poster)
