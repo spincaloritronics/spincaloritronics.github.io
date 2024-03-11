@@ -34,6 +34,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Zhaoqing Li**, Beijing Normal University (poster)
 1. _Pengfei Liu_,	Institute of Semiconductors, CAS (poster)
 1. **Shiqiang Liu**, Peking University
+1. **Xuejuan Liu**,	University of Electronic Science and Technology of China (poster)
 1. _Yi Liu_, Beijing Normal University
 1. _Bingcheng Luo_, Peking University
 1. **Dongqi Luo**, Beijing Normal University (poster)
@@ -48,6 +49,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Zhong Shi_, Tongji University (poster)
 1. **Alessandro Sola**, INRIM (poster)
 1. **Chi Sun**, Norwegian University of Science and Technology (poster)
+1. **Franz Vilsmeier**,	Technische Universität München (poster)
 1. _Lei Wang_, Southeast University
 1. **Yiqing Wang**, Southeast University
 1. _Yuqiang Wang_, Institute of Physics, CAS (poster)
