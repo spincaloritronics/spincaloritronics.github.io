@@ -16,22 +16,27 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Chau Dao**, University of California, Los Angeles (poster)
 1. _Yongcheng, Deng_,	Institute of Semiconductors, CAS (poster)
 1. **Jianting Dong**, Huazhong University of Science and Technology
+1. **Wei Duan**, Huazhong University of Science and Technology
 1. **Zheng Feng**, Microsystem & Terahertz Research Center, CAEP
 1. _Pingfan Gu_, Peking University
 1. _Yiming Guo_, Xiamen Univerisity/Lanzhou University
 1. **Kang He**, Microsystem & Terahertz Research Center, CAEP
 1. **Rongzhi Huang**, Fudan University
+1. **Xiangfan Huang**, Sun Yat-sen University
 1. **William Huddie**, Utrecht University
 1. **Eric Kleinherbers**, University of California, Los Angeles
+1. **Jin Lan**, Tianjin University
 1. _Na Lei_, Beihang University (poster)
 1. _Linhao Jia_, Peking University
 1. _Jun Li_, Tongji University & University of Manitoba
 1. _Junxue Li_, Southern University of Science and Technology (poster)
 1. **Xinlu Li**, Huazhong University of Science and Technology
+1. **Zhaoqing Li**, Beijing Normal University
 1. _Pengfei Liu_,	Institute of Semiconductors, CAS (poster)
 1. **Shiqiang Liu**, Peking University
 1. _Yi Liu_, Beijing Normal University
 1. _Bingcheng Luo_, Peking University
+1. **Dongqi Luo**, Beijing Normal University
 1. **Bowen Ma**, The University of Hong Kong (poster)
 1. _Ruoban Ma_, Fudan University
 1. _Thomas Nussle_, University of Leeds (poster)
