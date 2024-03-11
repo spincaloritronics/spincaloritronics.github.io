@@ -22,7 +22,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Yiming Guo_, Xiamen Univerisity/Lanzhou University
 1. **Kang He**, Microsystem & Terahertz Research Center, CAEP
 1. **Rongzhi Huang**, Fudan University
-1. **Xiangfan Huang**, Sun Yat-sen University (poster)
+1. _Xiangfan Huang_, Sun Yat-sen University (poster)
 1. **William Huddie**, Utrecht University
 1. **Eric Kleinherbers**, University of California, Los Angeles
 1. **Jin Lan**, Tianjin University (poster)
