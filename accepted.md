@@ -49,7 +49,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Zhong Shi_, Tongji University (poster)
 1. **Alessandro Sola**, INRIM (poster)
 1. **Chi Sun**, Norwegian University of Science and Technology (poster)
-1. **Franz Vilsmeier**,	Technische Universität München (poster)
+1. _Franz Vilsmeier_,	Technische Universität München (poster)
 1. _Lei Wang_, Southeast University
 1. **Yiqing Wang**, Southeast University
 1. _Yuqiang Wang_, Institute of Physics, CAS (poster)
@@ -61,7 +61,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Kun Wu**, Huazhong University of Science and Technology
 1. **Shiwei Wu**, Fudan University
 1. _Guofu Xu_, Lanzhou University
-1. **Dezheng Yang**, Lanzhou University
+1. _Dezheng Yang_, Lanzhou University (poster)
 1. _Xiaoqing Yang_, Nanjing University
 1. **Xiyin Ye**, Huazhong University of Science and Technology (poster)
 1. **Chengyuan Cai**, Huazhong University of Science and Technology (poster)
