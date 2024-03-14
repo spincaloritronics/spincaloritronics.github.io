@@ -36,7 +36,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Zhengyi Li**, Nanjing Normal University (poster)
 1. _Pengfei Liu_,	Institute of Semiconductors, CAS (poster)
 1. **Shiqiang Liu**, Peking University
-1. **Xuejuan Liu**,	University of Electronic Science and Technology of China (poster)
+1. _Xuejuan Liu_,	University of Electronic Science and Technology of China (poster)
 1. _Yi Liu_, Beijing Normal University
 1. **Yunwen Liu**, Fudan University (poster)
 1. _Bingcheng Luo_, Peking University
