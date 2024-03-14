@@ -24,10 +24,10 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Rongzhi Huang**, Fudan University
 1. _Xiangfan Huang_, Sun Yat-sen University (poster)
 1. **William Huddie**, Utrecht University
+1. _Linhao Jia_, Peking University
 1. _Eric Kleinherbers_, University of California, Los Angeles (poster)
 1. **Jin Lan**, Tianjin University (poster)
 1. _Na Lei_, Beihang University (poster)
-1. _Linhao Jia_, Peking University
 1. _Jun Li_, Tongji University & University of Manitoba
 1. _Junxue Li_, Southern University of Science and Technology (poster)
 1. **Xinlu Li**, Huazhong University of Science and Technology
