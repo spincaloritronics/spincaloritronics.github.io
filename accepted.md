@@ -8,6 +8,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 - Name in _italic_ means you have successfully registered. 
 
 1. **Artim Leonardo Bassant**, Utrecht University
+1. **Chengyuan Cai**, Huazhong University of Science and Technology (poster)
 1. _Guozhi Chai_, Lanzhou University
 1. **Cui-Qun Chen**, Sun Yat-sen University (poster)
 1. _Di Chen_, Beijing Academy of Quantum Information Sciences
@@ -68,7 +69,6 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Dezheng Yang_, Lanzhou University (poster)
 1. _Xiaoqing Yang_, Nanjing University
 1. **Xiyin Ye**, Huazhong University of Science and Technology (poster)
-1. **Chengyuan Cai**, Huazhong University of Science and Technology (poster)
 1. _Yinong Yin_, Beijing Technology and Business University (poster)
 1. _Hiroki Yoshida_, Tokyo Institute of Technology
 1. _Huaiyang Yuan_, Zhejiang University
