@@ -52,7 +52,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Alessandro Sola**, INRIM (poster)
 1. **Chi Sun**, Norwegian University of Science and Technology (poster)
 1. _Franz Vilsmeier_,	Technische Universität München (poster)
-1. **Jiongjie Wang**, Fudan University (poster)
+1. _Jiongjie Wang_, Fudan University (poster)
 1. **Ledong Wang**, Tsinghua University (poster)
 1. _Lei Wang_, Southeast University
 1. **Yiqing Wang**, Southeast University
