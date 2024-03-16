@@ -60,7 +60,7 @@ _Metadynamics calculations of the effect of thermal spin fluctuations on skyrmio
 - **Jianhao Chen** - Peking University, China   
 _Thermally excited spin transport in low-dimensional and exotic magnetic materials_
 - **Andrii Chumak** - University of Vienna, Austria   
-_TBA_
+_Magnon transport in YIG/GGG at millikelvin temperatures_
 - **Rembert Duine** - Utrecht University, The Netherlands   
 _Spin and heat transport in Van der Waals heterostructures (preliminary)_
 - **Axel Hoffmann** - University of Illinois Urbana-Champaign (UIUC), USA   
@@ -122,7 +122,7 @@ _Thermoelectric generation and sensors based on anomalous Nernst effect_
 - **Yizheng Wu** - Fudan University, China   
 _TBA_
 - **Bart van Wees** - University of Groningen, The Netherlands   
-_TBA_
+_Long-distance magnon transport in the van der Waals antiferromagnet CrPS4_
 - **Kei Yamamoto** - Advanced Science Research Center (ASRC), JAEA, Japan   
 _Steady states of a ferromagnetic film under anti-damping torque_
 - **Haiming Yu** - Beihang University, China   
