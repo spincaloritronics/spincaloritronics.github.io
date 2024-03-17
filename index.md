@@ -88,9 +88,9 @@ _Orbital Torque and Orbital Pumping_
 - **Alejandro O. Leon** - Metropolitan University of Technology, Chile   
 _Rare-earth Spintronics_
 - **Qihang Liu** - Southern University of Science and Technology, China   
-_TBA_
+_Spin crystallographic group: theory and application_
 - **Zhaochu Luo** - Peking University, China   
-_TBA_
+_Interlayer magnetic coupling in a magnetic insulator_
 - **Sadamichi Maekawa** - RIKEN, Japan   
 _Hydrodynamic Spintronics_
 - **Mamoru Matsuo** - Kavli Institute for Theoretical Sciences (KITS), UCAS, China   
