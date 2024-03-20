@@ -10,7 +10,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Artim Leonardo Bassant**, Utrecht University
 1. **Chengyuan Cai**, Huazhong University of Science and Technology (poster)
 1. _Guozhi Chai_, Lanzhou University
-1. **Cui-Qun Chen**, Sun Yat-sen University (poster)
+1. _Cui-Qun Chen_, Sun Yat-sen University (poster)
 1. _Di Chen_, Beijing Academy of Quantum Information Sciences
 1. **Lin Chen**, Technical University Munich (poster)
 1. **Peter Connick**, University of California, Los Angeles (poster)
