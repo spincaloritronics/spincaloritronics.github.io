@@ -110,7 +110,7 @@ _TBA_
 - **Libor Šmejkal** - Johannes Gutenberg University Mainz, Germany   
 _TBA_
 - **Cheng Song** - Tsinghua University, China   
-_TBA_
+_Crystal Design of Altermagnets and 180° Electrical Switching of Néel Vector_
 - **Yaroslav Tserkovnyak** - University of California, Los Angeles (UCLA), USA   
 _Topological "ZT": Thermodynamic efficiency of vorticity-transport based devices_
 - **Kenichi Uchida** - National Institute for Materials Science (NIMS), Japan   
