@@ -163,10 +163,13 @@ _Magnon drag contributions to thermopower in low damping ferromagnetic metals_
 
 # Registration
 
-Please fill the online registration form before May 1, 2024. There will be no registration fee.
-- [Registration](https://forms.office.com/r/0RWveQ7s98) for invited speakers.
+Please fill the online registration form before May 1, 2024. There will be no registration fee. 
 
-- **[APPLY](https://forms.office.com/r/kNWXjY8Knf) BEFORE REGISTRATION!** Please first check if your name is in the [list of accepted applicants](accepted.md) before [Registration](https://forms.office.com/r/ViypDDve5B). Registration without application is invalid and would not be admitted at the workshop.
+- Invited Speakers: [Registration](https://forms.office.com/r/0RWveQ7s98).
+
+- Participants: [Registration](https://forms.office.com/r/ViypDDve5B), before registration please first check if your name is in the [list of accepted applicants](accepted.md). Registration without application is invalid and would not be admitted at the workshop.
+
+- Poster Presentation Size: 80 cm (width) x 120 cm (height).
 
 # Venue & Hotel
 
