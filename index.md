@@ -126,7 +126,7 @@ _Long-distance magnon transport in the van der Waals antiferromagnet CrPS4_
 - **Kei Yamamoto** - Advanced Science Research Center (ASRC), JAEA, Japan   
 _Steady states of a ferromagnetic film under anti-damping torque_
 - **Haiming Yu** - Beihang University, China   
-_TBA_
+_Nonlocal detection of interlayer three-magnon coupling_
 - **Tao Yu** - Huazhong University of Science and Technology, China   
 _Gating Magnon Transport by Superconductors_
 - **Barry Zink** - University of Denver, USA   
