@@ -116,7 +116,7 @@ _Topological "ZT": Thermodynamic efficiency of vorticity-transport based devices
 - **Kenichi Uchida** - National Institute for Materials Science (NIMS), Japan   
 _Hybrid transverse magneto-thermoelectric conversion in artificially tilted multilayers_
 - **Thierry Valet** - Université Grenoble Alpes, France   
-_TBA_
+_Gauge invariant quantum kinetic theory of multiband electron systems - Applications to spintronics and orbitronics_
 - **Caihua Wan** - Institue of Physics, CAS, China   
 _Thermoelectric generation and sensors based on anomalous Nernst effect_
 - **Yizheng Wu** - Fudan University, China   
