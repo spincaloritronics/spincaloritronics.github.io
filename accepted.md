@@ -57,6 +57,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Jiongjie Wang_, Fudan University (poster)
 1. **Ledong Wang**, Tsinghua University (poster)
 1. _Lei Wang_, Southeast University
+1. **Qi Wang**, Huazhong University of Science and Technology 
 1. **Yiqing Wang**, Southeast University
 1. _Yuqiang Wang_, Institute of Physics, CAS (poster)
 1. _Yutian Wang_, Fudan University (poster)
