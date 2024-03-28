@@ -82,7 +82,7 @@ _TBA_
 - **Timo Kuschel** - Bielefeld University, Germany   
 _TBA_
 - **Silvia Viola Kusminskiy** - RWTH Aachen University, Germany   
-_TBA_
+_Light-Matter Interaction in Antiferromagnets: probing and controlling antiferromagnetic magnons_
 - **Kyung-Jin Lee** - Korea Advanced Institute of Science & Technology (KAIST), South Korea   
 _Orbital Torque and Orbital Pumping_
 - **Alejandro O. Leon** - Metropolitan University of Technology, Chile   
@@ -120,7 +120,7 @@ _Gauge invariant quantum kinetic theory of multiband electron systems - Applicat
 - **Caihua Wan** - Institue of Physics, CAS, China   
 _Thermoelectric generation and sensors based on anomalous Nernst effect_
 - **Yizheng Wu** - Fudan University, China   
-_TBA_
+_Revisiting Anomalous Hall Effect and Anisotropic Magnetoresistance in Fe(001) Films_
 - **Bart van Wees** - University of Groningen, The Netherlands   
 _Long-distance magnon transport in the van der Waals antiferromagnet CrPS4_
 - **Kei Yamamoto** - Advanced Science Research Center (ASRC), JAEA, Japan   
