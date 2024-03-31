@@ -24,7 +24,6 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Yiming Guo_, Xiamen Univerisity/Lanzhou University
 1. **Kang He**, Microsystem & Terahertz Research Center, CAEP
 1. **Chensong Hua**, Fudan University (poster)
-1. **Rongzhi Huang**, Fudan University
 1. _Xiangfan Huang_, Sun Yat-sen University (poster)
 1. **William Huddie**, Utrecht University
 1. _Linhao Jia_, Peking University
@@ -46,7 +45,6 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Bingcheng Luo_, Peking University
 1. **Dongqi Luo**, Beijing Normal University (poster)
 1. **Bowen Ma**, The University of Hong Kong (poster)
-1. _Ruoban Ma_, Fudan University
 1. _Thomas Nussle_, University of Leeds (poster)
 1. _Shaomian Qi_, Peking University (poster)
 1. **Zhiyong Qiu**, Dalian University of Technology
