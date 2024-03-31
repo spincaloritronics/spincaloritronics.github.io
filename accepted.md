@@ -45,7 +45,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Bingcheng Luo_, Peking University
 1. **Dongqi Luo**, Beijing Normal University (poster)
 1. **Bowen Ma**, The University of Hong Kong (poster)
-1. **Theeranuch Nachaithong**, Thammasat University (poster)
+1. _Theeranuch Nachaithong_, Thammasat University (poster)
 1. _Thomas Nussle_, University of Leeds (poster)
 1. **Haolin Pan**, University of Science and Technology of China (poster)
 1. _Shaomian Qi_, Peking University (poster)
@@ -81,7 +81,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Xiyin Ye**, Huazhong University of Science and Technology (poster)
 1. _Yinong Yin_, Beijing Technology and Business University (poster)
 1. _Hiroki Yoshida_, Tokyo Institute of Technology
-1. **Yutong Yu**, Southern University of Science and Technology (poster)
+1. _Yutong Yu_, Southern University of Science and Technology (poster)
 1. _Huaiyang Yuan_, Zhejiang University
 1. _Chi Zhang_, Lanzhou University
 1. _Huanyu Zhang_, Fudan University (poster)
