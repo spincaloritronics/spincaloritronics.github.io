@@ -47,6 +47,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Bowen Ma**, The University of Hong Kong (poster)
 1. **Theeranuch Nachaithong**, Thammasat University (poster)
 1. _Thomas Nussle_, University of Leeds (poster)
+1. **Haolin Pan**, University of Science and Technology of China (poster)
 1. _Shaomian Qi_, Peking University (poster)
 1. **Zhiyong Qiu**, Dalian University of Technology
 1. _Reza Rouzegar_, Freie Universität Berlin (poster)
@@ -75,6 +76,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Zian Xia**, Fudan University (poster)
 1. _Guofu Xu_, Lanzhou University
 1. _Dezheng Yang_, Lanzhou University (poster)
+1. **Pengtao Yang**, Institute of Physics, CAS
 1. _Xiaoqing Yang_, Nanjing University
 1. **Xiyin Ye**, Huazhong University of Science and Technology (poster)
 1. _Yinong Yin_, Beijing Technology and Business University (poster)
@@ -83,6 +85,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Huaiyang Yuan_, Zhejiang University
 1. _Chi Zhang_, Lanzhou University
 1. _Huanyu Zhang_, Fudan University (poster)
+1. **Jiachen Zhang**, University of Science and Technology of China (poster)
 1. **Wen Zhang**, Southeast University
 1. _Zhibo Zhao_, Karlsruhe Institute of Technology 
 1. **Xi-Han Zhou**,	Huazhong University of Science and Technology
