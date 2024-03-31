@@ -13,6 +13,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Cui-Qun Chen_, Sun Yat-sen University (poster)
 1. _Di Chen_, Beijing Academy of Quantum Information Sciences
 1. **Lin Chen**, Technical University Munich (poster)
+1. **Xiaobing Chen**, Southern University of Science and Technology (poster)
 1. **Peter Connick**, University of California, Los Angeles (poster)
 1. **Chau Dao**, University of California, Los Angeles (poster)
 1. _Yongcheng, Deng_,	Institute of Semiconductors, CAS (poster)
@@ -22,6 +23,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Pingfan Gu_, Peking University
 1. _Yiming Guo_, Xiamen Univerisity/Lanzhou University
 1. **Kang He**, Microsystem & Terahertz Research Center, CAEP
+1. **Chensong Hua**, Fudan University (poster)
 1. **Rongzhi Huang**, Fudan University
 1. _Xiangfan Huang_, Sun Yat-sen University (poster)
 1. **William Huddie**, Utrecht University
@@ -32,8 +34,10 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Jun Li_, Tongji University & University of Manitoba
 1. _Junxue Li_, Southern University of Science and Technology (poster)
 1. **Xinlu Li**, Huazhong University of Science and Technology
+1. **Yum-Mei Li**, Xiamen University (poster)
 1. **Zhaoqing Li**, Beijing Normal University (poster)
 1. **Zhengyi Li**, Nanjing Normal University (poster)
+1. **Lu Liu**, Southern University of Science and Technology (poster)
 1. _Pengfei Liu_,	Institute of Semiconductors, CAS (poster)
 1. _Shiqiang Liu_, Peking University
 1. _Xuejuan Liu_,	University of Electronic Science and Technology of China (poster)
@@ -52,8 +56,10 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Zhong Shi_, Tongji University (poster)
 1. **Alessandro Sola**, INRIM (poster)
 1. **Chi Sun**, Norwegian University of Science and Technology (poster)
+1. **Yiming Sun**, Beihang University (poster)
 1. _Andrei Telegin_, M.N. Mikheev Institute of Metal Physics UB of RAS (poster)
 1. _Franz Vilsmeier_,	Technische Universität München (poster)
+1. **Chongzhou Wang**, Fudan University (poster)
 1. _Jiongjie Wang_, Fudan University (poster)
 1. **Ledong Wang**, Tsinghua University (poster)
 1. _Lei Wang_, Southeast University
@@ -67,12 +73,14 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Poramed Wongjom**,	Thammasat University
 1. **Kun Wu**, Huazhong University of Science and Technology
 1. **Shiwei Wu**, Fudan University
+1. **Zian Xia**, Fudan University (poster)
 1. _Guofu Xu_, Lanzhou University
 1. _Dezheng Yang_, Lanzhou University (poster)
 1. _Xiaoqing Yang_, Nanjing University
 1. **Xiyin Ye**, Huazhong University of Science and Technology (poster)
 1. _Yinong Yin_, Beijing Technology and Business University (poster)
 1. _Hiroki Yoshida_, Tokyo Institute of Technology
+1. **Yutong Yu**, Southern University of Science and Technology (poster)
 1. _Huaiyang Yuan_, Zhejiang University
 1. _Chi Zhang_, Lanzhou University
 1. _Huanyu Zhang_, Fudan University (poster)
