@@ -80,7 +80,7 @@ _Heat generated spin and orbital currents_
 - **Oliver Klein** - Université Grenoble Alpes, France   
 _TBA_
 - **Timo Kuschel** - Bielefeld University, Germany   
-_TBA_
+_In search of spin and orbital currents by x-ray detected ferromagnetic resonance_
 - **Silvia Viola Kusminskiy** - RWTH Aachen University, Germany   
 _Light-Matter Interaction in Antiferromagnets: probing and controlling antiferromagnetic magnons_
 - **Kyung-Jin Lee** - Korea Advanced Institute of Science & Technology (KAIST), South Korea   
@@ -98,7 +98,7 @@ _Spin current generation due to differential rotation_
 - **Shuichi Murakami** - Tokyo Institute of Technology, Japan   
 _TBA_
 - **Tianxiang Nan** - Tsinghua University, China   
-_TBA_
+_Efficient spin-orbit torque generation in complex oxides_
 - **Teruo Ono** - Kyoto University, Japan   
 _Superconducting diode effect_
 - **Yoshichika Otani** - University of Tokyo, Japan   
