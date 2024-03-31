@@ -100,7 +100,7 @@ _TBA_
 - **Tianxiang Nan** - Tsinghua University, China   
 _TBA_
 - **Teruo Ono** - Kyoto University, Japan   
-_TBA_
+_Superconducting diode effect_
 - **Yoshichika Otani** - University of Tokyo, Japan   
 _Nonreciprocal Transport of Surface Acoustic Waves Due to Valley-Selective Phonon-Magnon Coupling in Magnetoelastic Superlattices_
 - **Stuart Parkin** - Max Planck Institute of Microstructure Physics, Germany   
