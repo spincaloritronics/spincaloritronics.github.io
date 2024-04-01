@@ -78,7 +78,7 @@ _Femtosecond magnetism - terra incongina beyond the conventional approximations_
 - **Mathias Kläui** - Johannes Gutenberg University Mainz, Germany   
 _Heat generated spin and orbital currents_
 - **Oliver Klein** - Université Grenoble Alpes, France   
-_TBA_
+_Nonlocal magnon transconductance in extended magnetic insulating films_
 - **Timo Kuschel** - Bielefeld University, Germany   
 _In search of spin and orbital currents by x-ray detected ferromagnetic resonance_
 - **Silvia Viola Kusminskiy** - RWTH Aachen University, Germany   
