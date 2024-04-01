@@ -53,7 +53,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 
 |           |May 19 (Sun) | May 20 (Mon)      | May 21 (Tues)     | May 22 (Wed)   | May 23 (Thur)    | May 24 (Fri)      |  
 |:---------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-|08:45-09:00|            | _Opening_  |            | _Excursion_|            |            |
+|08:55-09:00|            | _Opening_  |            | _Excursion_|            |            |
 |09:00-09:30|            | **Saitoh** |**van Wees**|            |**Lee**| **Hillebrands** |
 |09:30-10:00|            |**Hoffmann**| **Chen**   |            | **Luo**     | **Hu**    |
 |10:00-10:30|            | **Zink**   | **Duine** |            | **Kelly**  | **H. Yu**  |
