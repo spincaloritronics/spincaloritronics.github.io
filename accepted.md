@@ -28,6 +28,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **William Huddie**, Utrecht University
 1. _Linhao Jia_, Peking University
 1. _Eric Kleinherbers_, University of California, Los Angeles (poster)
+1. **Hye-Won Ko**, Korea Advanced Institute of Science and Technology (poster)
 1. **Jin Lan**, Tianjin University (poster)
 1. _Na Lei_, Beihang University (poster)
 1. _Jun Li_, Tongji University & University of Manitoba
@@ -48,6 +49,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Theeranuch Nachaithong_, Thammasat University (poster)
 1. _Thomas Nussle_, University of Leeds (poster)
 1. **Haolin Pan**, University of Science and Technology of China (poster)
+1. **Yeonsoo Park**, Korea Advanced Institute of Science and Technology (poster)
 1. _Shaomian Qi_, Peking University (poster)
 1. **Zhiyong Qiu**, Dalian University of Technology
 1. _Reza Rouzegar_, Freie Universität Berlin (poster)
