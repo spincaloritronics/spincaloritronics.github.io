@@ -186,7 +186,7 @@ Please fill the online registration form before May 1, 2024. There will be no re
 
 # Sponsors
 
-- [苏州凌光红外科技有限公司](https://www.luxet.cn/)
+- [LUXET Infrared - 苏州凌光红外科技有限公司](https://www.luxet.cn/)
 
 Please let us know if you would like to support the workshop in any means. 
 
