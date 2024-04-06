@@ -190,4 +190,6 @@ Please fill the online registration form before May 1, 2024. There will be no re
 
 Please let us know if you would like to support the workshop in any means. 
 
+----
+
 <img src="../assets/images/logo2.png" alt="logo" width="800"/>
