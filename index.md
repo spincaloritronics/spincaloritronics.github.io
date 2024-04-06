@@ -24,6 +24,8 @@ and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 
 **Registration is now open, for invited speakers and accepted applicants, please scroll down to the [Registration section](#registration) to fill out the registration forms.**
 
+---
+
 # Scope
 
 Spin caloritronics encompasses the study of coupled spin, charge, and heat transport in condensed materials and devices. As a multidisciplinary field that intersects with spintronics, thermoelectrics, optics, mechanics, and information science, it explores the fascinating connections between these domains.
