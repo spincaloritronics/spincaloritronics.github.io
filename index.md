@@ -19,10 +19,10 @@ Groningen (2019),
 Urbana-Champaign ([2022](https://cem.osu.edu/2022-workshop-spin-caloritronics-xi/)),
 and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 
-- Please note that all talks at the workshop will be by invitation only. 
-**If you are interested in attending or presenting a poster, please submit your application at the [Application section](#application).** Due to space limitations in the conference room, we can only accept approximately 100 applicants. Thank you for your understanding.
+<!-- - Please note that all talks at the workshop will be by invitation only. 
+**If you are interested in attending or presenting a poster, please submit your application at the [Application section](#application).** Due to space limitations in the conference room, we can only accept approximately 100 applicants. Thank you for your understanding. -->
 
-- Registration is now open, for invited speakers and accepted applicants, please scroll down to the [Registration section](#registration) to fill out the registration forms.
+**Registration is now open, for invited speakers and accepted applicants, please scroll down to the [Registration section](#registration) to fill out the registration forms.**
 
 # Scope
 
@@ -156,8 +156,11 @@ _Magnon drag contributions to thermopower in low damping ferromagnetic metals_
 
 # Application
 
-**Please fill out this [application form](https://forms.office.com/r/kNWXjY8Knf) to apply for the workshop (deadline: April 1, 2024).**   
-  [The accepted applicants](accepted.md) will be notified by email.
+<!-- **Please fill out this [application form](https://forms.office.com/r/kNWXjY8Knf) to apply for the workshop (deadline: April 1, 2024).**    -->
+
+The application for the workshop is now closed. If you have submitted an application form, please refer to the [list of accepted applicants](accepted.md) to see if you have been selected to participate. **Please note that the accepted applicants still need to fill out the registration form below.**
+
+Due to constraints at the conference venue, we regret that we were unable to accept all applicants. Thank you for your understanding.
 
 # Registration
 
@@ -183,6 +186,8 @@ Please fill the online registration form before May 1, 2024. There will be no re
 
 # Sponsors
 
-- Please let us know if you would like to support the workshop in any means. 
+- [苏州凌光红外科技有限公司](https://www.luxet.cn/)
+
+Please let us know if you would like to support the workshop in any means. 
 
 <img src="../assets/images/logo2.png" alt="logo" width="800"/>
