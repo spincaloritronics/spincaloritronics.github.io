@@ -65,11 +65,11 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 |12:00-12:30|            | **Uchida** | **T. Yu**  |            | **Valet**| **Back**|
 |12:30-14:00|            | _Lunch_    | _Lunch_    |            | _Lunch_    | _Lunch_    |
 |14:00-14:30|Registration| **Maekawa**| **Ono**    |            | **Kusminskiy** | **Parkin**  |
-|14:30-15:00| "          | **Poster Shotgun**| **Nan**   |     | **Kimel**   | **Tserkovnyak** |
+|14:30-15:00| "          | **Poster Shotgun**| **Nan**   |     | **Kimel**   | **Otani** |
 |15:00-15:30| "          | Coffee & Poster| Coffee & Poster|    | Coffee & Poster| Coffee & Poster|
-|15:30-16:00| "          | **Song**  | _Panel_    |            | **Adachi**    |**Otani**|
-|16:00-16:30| "          | **Šmejkal** |_Discussion_|            | **Hou** | **Matsuo**|
-|16:30-17:00| "          |**Liu**     |_on SpinCat_|            | **Wu**     | **Barker**   |
+|15:30-16:00| "          | **Song**  | _Panel_    |            | **Adachi**    |**Matsuo**|
+|16:00-16:30| "          | **Šmejkal** |_Discussion_|            | **Hou** | **Barker**|
+|16:30-17:00| "          |**Liu**     |_on SpinCat_|            | **Wu**     | _Closing_   |
 |17:00-20:00| _Free_     | _Free_     | _Free_     |  _Banquet_ | _Free_     | _Free_   |
 
 # Invited speakers
@@ -133,8 +133,8 @@ _TBA_
 _TBA_
 - **Cheng Song** - Tsinghua University, China   
 _Crystal Design of Altermagnets and 180° Electrical Switching of Néel Vector_
-- **Yaroslav Tserkovnyak** - University of California, Los Angeles (UCLA), USA   
-_Topological "ZT": Thermodynamic efficiency of vorticity-transport based devices_
+<!-- - **Yaroslav Tserkovnyak** - University of California, Los Angeles (UCLA), USA   
+_Topological "ZT": Thermodynamic efficiency of vorticity-transport based devices_ -->
 - **Kenichi Uchida** - National Institute for Materials Science (NIMS), Japan   
 _Hybrid transverse magneto-thermoelectric conversion in artificially tilted multilayers_
 - **Thierry Valet** - Université Grenoble Alpes, France   
