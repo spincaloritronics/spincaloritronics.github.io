@@ -62,6 +62,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Yiming Sun_, Beihang University (poster)
 1. _Andrei Telegin_, M.N. Mikheev Institute of Metal Physics UB of RAS (poster)
 1. _Franz Vilsmeier_,	Technische Universität München (poster)
+1. **Chongzhou Wang**, Fudan University (poster)
 1. _Jiongjie Wang_, Fudan University (poster)
 1. **Ledong Wang**, Tsinghua University (poster)
 1. _Lei Wang_, Southeast University
