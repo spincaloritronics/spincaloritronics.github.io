@@ -73,7 +73,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 |15:30-16:00| "          | **Song**  | _Panel_    |            | **Adachi**    |**Matsuo**|
 |16:00-16:30| "          | **Šmejkal** |_Discussion_|            | **Hou** | **Barker**|
 |16:30-17:00| "          |**Liu**     |_on SpinCat_|            | **Wu**     | _Closing_   |
-|17:00-20:00| _Free_     | _Free_     | _Free_     |  _Banquet_ | _Free_     | _Free_   |
+|17:00-20:00| _Free_     | _Free_     | _Free_     |  _Banquet_ | _Free_     |          |
 
 # Invited speakers
 - **Hiroto Adachi** - Okayama University, Japan  
