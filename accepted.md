@@ -25,15 +25,16 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Yiming Guo_, Xiamen Univerisity/Lanzhou University
 1. **Kang He**, Microsystem & Terahertz Research Center, CAEP
 1. **Chensong Hua**, Fudan University (poster)
-1. _Xiangfan Huang_, Sun Yat-sen University (poster)
+1. _Xiangfan Huang_, Sun Yat-sen University
 1. **William Huddie**, Utrecht University
 1. _Linhao Jia_, Peking University
 1. _Eric Kleinherbers_, University of California, Los Angeles (poster)
 1. _Hye-Won Ko_, Korea Advanced Institute of Science and Technology (poster)
-1. **Jin Lan**, Tianjin University (poster)
+1. _Jin Lan_, Tianjin University (poster)
 1. _Na Lei_, Beihang University (poster)
 1. _Jun Li_, Tongji University & University of Manitoba
 1. _Junxue Li_, Southern University of Science and Technology (poster)
+1. _Sai Li_, Beihang University
 1. **Xinlu Li**, Huazhong University of Science and Technology
 1. **Yu Li**, Institute of quantum materials and physics, Henan Academy of Sciences
 1. **Yum-Mei Li**, Xiamen University (poster)
@@ -53,12 +54,12 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Haolin Pan**, University of Science and Technology of China (poster)
 1. _Yeonsoo Park_, Korea Advanced Institute of Science and Technology (poster)
 1. _Shaomian Qi_, Peking University (poster)
-1. **Zhiyong Qiu**, Dalian University of Technology
+1. _Zhiyong Qiu_, Dalian University of Technology (poster)
 1. _Reza Rouzegar_, Freie Universität Berlin (poster)
 1. _Laichuan Shen_, Beijing Normal University (poster)
-1. **Ka Shen**, Beijing Normal University
+1. _Ka Shen_, Beijing Normal University
 1. _Zhong Shi_, Tongji University (poster)
-1. **Alessandro Sola**, INRIM (poster)
+1. _Alessandro Sola_, INRIM (poster)
 1. _Chi Sun_, Norwegian University of Science and Technology (poster)
 1. _Yiming Sun_, Beihang University (poster)
 1. _Andrei Telegin_, M.N. Mikheev Institute of Metal Physics UB of RAS (poster)
