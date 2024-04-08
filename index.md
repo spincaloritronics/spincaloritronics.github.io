@@ -195,7 +195,7 @@ Please fill the online registration form before May 1, 2024. There will be no re
 <img src="../assets/images/LUXET.jpg" alt="luxet" width="300"/>
 
 - [Multi-Field Low Temperature Technologies - 多场科技](https://www.multi-field.com/)
-<img src="../assets/images/multifields.png" alt="multifields" width="300"/>
+<img src="../assets/images/multifields.jpg" alt="multifields" width="300"/>
 
 
 - **Please let us know if you would like to support the workshop in any means.**
