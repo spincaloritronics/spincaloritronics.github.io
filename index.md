@@ -191,10 +191,10 @@ Please fill the online registration form before May 1, 2024. There will be no re
 
 # Sponsors
 
-- [LUXET Infrared - 苏州凌光红外科技有限公司](https://www.luxet.cn/)
+- [**LUXET Infrared - 苏州凌光红外科技有限公司**](https://www.luxet.cn/)
 <img src="../assets/images/LUXET.jpg" alt="luxet" width="300"/>
 
-- [Multi-Field Low Temperature Technologies - 多场科技](https://www.multi-field.com/)
+- [**Multi-Field Low Temperature Technologies - 多场科技**](https://www.multi-field.com/)
 <img src="../assets/images/multifields.jpg" alt="multifields" width="300"/>
 
 
