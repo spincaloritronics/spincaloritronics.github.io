@@ -22,6 +22,8 @@ and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 <!-- - Please note that all talks at the workshop will be by invitation only. 
 **If you are interested in attending or presenting a poster, please submit your application at the [Application section](#application).** Due to space limitations in the conference room, we can only accept approximately 100 applicants. Thank you for your understanding. -->
 
+**The application process for the workshop has now concluded. If you submitted an application, please check [the list of accepted participants](accepted.md) and verify if you have been selected to attend the workshop.**
+
 **Registration is now open, for invited speakers and accepted applicants, please scroll down to the [Registration section](#registration) to fill out the registration forms.**
 
 ---
@@ -38,6 +40,7 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 - **Guoqiang Yu** - Institute of Physics, CAS
 - **Fuchun Zhang** - KITS/UCAS
 - **Nan Jin** (Assistant) - KITS/UCAS (Email: jinnan at ucas.ac.cn) 
+- Email: spincaloritronics at outlook.com
 
 <!--
 ## Scientific Advisory Board
@@ -133,8 +136,6 @@ _TBA_
 _TBA_
 - **Cheng Song** - Tsinghua University, China   
 _Crystal Design of Altermagnets and 180° Electrical Switching of Néel Vector_
-<!-- - **Yaroslav Tserkovnyak** - University of California, Los Angeles (UCLA), USA   
-_Topological "ZT": Thermodynamic efficiency of vorticity-transport based devices_ -->
 - **Kenichi Uchida** - National Institute for Materials Science (NIMS), Japan   
 _Hybrid transverse magneto-thermoelectric conversion in artificially tilted multilayers_
 - **Thierry Valet** - Université Grenoble Alpes, France   
@@ -155,6 +156,8 @@ _Gating Magnon Transport by Superconductors_
 _Magnon drag contributions to thermopower in low damping ferromagnetic metals_
 <!-- - **Olena Gomonay** - Johannes Gutenberg University Mainz, Germany -->
 <!-- - **Joseph Heremans** - Ohio State University, USA -->
+<!-- - **Yaroslav Tserkovnyak** - University of California, Los Angeles (UCLA), USA   
+_Topological "ZT": Thermodynamic efficiency of vorticity-transport based devices_ -->
 
 # Application
 
