@@ -7,7 +7,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 - Name in **bold** means you have not yet registerted yet, and please fill [registration form](https://forms.office.com/r/ViypDDve5B).
 - Name in _italic_ means you have successfully registered. 
 
-1. **Artim Leonardo Bassant**, Utrecht University
+1. _Artim Leonardo Bassant_, Utrecht University
 1. _Chengyuan Cai_, Huazhong University of Science and Technology (poster)
 1. _Guozhi Chai_, Lanzhou University
 1. _Cui-Qun Chen_, Sun Yat-sen University (poster)
@@ -20,10 +20,10 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Yongcheng, Deng_,	Institute of Semiconductors, CAS (poster)
 1. **Jianting Dong**, Huazhong University of Science and Technology
 1. **Wei Duan**, Huazhong University of Science and Technology (poster)
-1. _Zheng Feng_, Microsystem & Terahertz Research Center, CAEP
+1. **Zheng Feng**, Microsystem & Terahertz Research Center, CAEP
 1. _Pingfan Gu_, Peking University
 1. _Yiming Guo_, Xiamen Univerisity/Lanzhou University
-1. _Kang He_, Microsystem & Terahertz Research Center, CAEP
+1. **Kang He**, Microsystem & Terahertz Research Center, CAEP
 1. **Chensong Hua**, Fudan University (poster)
 1. _Xiangfan Huang_, Sun Yat-sen University
 1. **William Huddie**, Utrecht University
