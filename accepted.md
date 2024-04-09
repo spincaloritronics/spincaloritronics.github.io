@@ -92,7 +92,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Chi Zhang_, Lanzhou University
 1. _Huanyu Zhang_, Fudan University (poster)
 1. **Jiachen Zhang**, University of Science and Technology of China (poster)
-1. **Wen Zhang**, Southeast University
+1. _Wen Zhang_, Southeast University (poster)
 1. _Zhibo Zhao_, Karlsruhe Institute of Technology 
 1. **Xi-Han Zhou**,	Huazhong University of Science and Technology
 1. **Meng Zhu**, Huazhong University of Science and Technology
