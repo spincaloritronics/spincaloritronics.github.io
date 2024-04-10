@@ -121,7 +121,7 @@ _Hydrodynamic Spintronics_
 - **Mamoru Matsuo** - Kavli Institute for Theoretical Sciences (KITS), UCAS, China   
 _Spin current generation due to differential rotation_
 - **Shuichi Murakami** - Tokyo Institute of Technology, Japan   
-_TBA_
+_Chiral phonons and their conversions to spin polarizations_
 - **Tianxiang Nan** - Tsinghua University, China   
 _Efficient spin-orbit torque generation in complex oxides_
 - **Teruo Ono** - Kyoto University, Japan   
