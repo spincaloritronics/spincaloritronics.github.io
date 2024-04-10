@@ -95,7 +95,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Wen Zhang_, Southeast University (poster)
 1. _Zhibo Zhao_, Karlsruhe Institute of Technology 
 1. **Xi-Han Zhou**,	Huazhong University of Science and Technology
-1. **Meng Zhu**, Huazhong University of Science and Technology
+1. _Meng Zhu_, Huazhong University of Science and Technology (poster)
 1. **Weijia Zhu**, Aalto University
 1. **Fengjun Zhuo**, ShanghaiTech University
 1. **Yanyan Zhu**, University of California, Los Angeles
