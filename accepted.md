@@ -19,7 +19,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Chau Dao**, University of California, Los Angeles (poster)
 1. _Yongcheng, Deng_,	Institute of Semiconductors, CAS (poster)
 1. **Jianting Dong**, Huazhong University of Science and Technology
-1. **Wei Duan**, Huazhong University of Science and Technology (poster)
+1. _Wei Duan_, Huazhong University of Science and Technology (poster)
 1. **Zheng Feng**, Microsystem & Terahertz Research Center, CAEP
 1. _Pingfan Gu_, Peking University
 1. _Yiming Guo_, Xiamen Univerisity/Lanzhou University
@@ -35,7 +35,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Jun Li_, Tongji University & University of Manitoba
 1. _Junxue Li_, Southern University of Science and Technology (poster)
 1. _Sai Li_, Beihang University
-1. **Xinlu Li**, Huazhong University of Science and Technology
+1. _Xinlu Li_, Huazhong University of Science and Technology (poster)
 1. **Yu Li**, Institute of quantum materials and physics, Henan Academy of Sciences
 1. **Yum-Mei Li**, Xiamen University (poster)
 1. **Zhaoqing Li**, Beijing Normal University (poster)
@@ -76,7 +76,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Zi-An Wang_, Institute of Solid State Physics, CAS
 1. _Yusuf Wicaksono_, RIKEN (poster)
 1. **Poramed Wongjom**,	Thammasat University
-1. **Kun Wu**, Huazhong University of Science and Technology
+1. _Kun Wu_, Huazhong University of Science and Technology
 1. **Shiwei Wu**, Fudan University
 1. _Tong Wu_, Fudan University (poster)
 1. **Zian Xia**, Fudan University (poster)
