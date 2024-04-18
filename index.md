@@ -131,7 +131,7 @@ _Nonreciprocal Transport of Surface Acoustic Waves Due to Valley-Selective Phono
 - **Stuart Parkin** - Max Planck Institute of Microstructure Physics, Germany   
 _TBA_
 - **Eiji Saitoh** - University of Tokyo, Japan   
-_TBA_
+_Nonlinear and quantum transport and dynamics spins in magnets_
 - **Libor Šmejkal** - Johannes Gutenberg University Mainz, Germany   
 _TBA_
 - **Cheng Song** - Tsinghua University, China   
