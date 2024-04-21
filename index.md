@@ -65,12 +65,12 @@ Tentative program
 |09:30-10:00|            |**Hoffmann**| **Chen**   |            | **Luo**     | **Hu**    |
 |10:00-10:30|            | **Zink**   | **Duine** |            | **Kelly**  | **H. Yu**  |
 |10:30-11:00|            | Coffee & Poster| Coffee & Poster|    | Coffee & Poster| Coffee & Poster|
-|11:00-11:30|            | **Kläui**  | **Klein**  |            | **Kuschel**  | **Nan**|
+|11:00-11:30|            | **Kläui**  | **Parkin**  |            | **Kuschel**  | **Nan**|
 |11:30-12:00|            | **Wan**    |**Chumak**|            | **Leon**  | **Yamamoto**    |
 |12:00-12:30|            | **Uchida** | **T. Yu**  |            | **Valet**| **Back**|
 |12:30-14:00|            | _Lunch_    | _Lunch_    |            | _Lunch_    | _Lunch_    |
 |14:00-14:30|Registration| **Maekawa**| **Ono**    |            | **Kusminskiy** | **Otani**  |
-|14:30-15:00| "          | **Poster Shotgun**| **Parkin**   |     | **Kimel**   | **Matsuo** |
+|14:30-15:00| "          | **Poster Shotgun**| **Klein**   |     | **Kimel**   | **Matsuo** |
 |15:00-15:30| "          | Coffee & Poster| Coffee & Poster|    | Coffee & Poster| Coffee & Poster|
 |15:30-16:00| "          | **Song**  | _Panel_    |            | **Adachi**    |**Murakami**|
 |16:00-16:30| "          | **Šmejkal** |_Discussion_|            | **Hou** | **Barker**|
