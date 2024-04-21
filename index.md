@@ -56,6 +56,8 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
   
 # Program
 
+Tentative program
+
 |           |May 19 (Sun) | May 20 (Mon)      | May 21 (Tues)     | May 22 (Wed)   | May 23 (Thur)    | May 24 (Fri)      |  
 |:---------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 |08:55-09:00|            | _Opening_  |            | _Excursion_|            |            |
@@ -63,14 +65,14 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
 |09:30-10:00|            |**Hoffmann**| **Chen**   |            | **Luo**     | **Hu**    |
 |10:00-10:30|            | **Zink**   | **Duine** |            | **Kelly**  | **H. Yu**  |
 |10:30-11:00|            | Coffee & Poster| Coffee & Poster|    | Coffee & Poster| Coffee & Poster|
-|11:00-11:30|            | **Kläui**  | **Klein**  |            | **Kuschel**  | **Murakami**|
+|11:00-11:30|            | **Kläui**  | **Klein**  |            | **Kuschel**  | **Nan**|
 |11:30-12:00|            | **Wan**    |**Chumak**|            | **Leon**  | **Yamamoto**    |
 |12:00-12:30|            | **Uchida** | **T. Yu**  |            | **Valet**| **Back**|
 |12:30-14:00|            | _Lunch_    | _Lunch_    |            | _Lunch_    | _Lunch_    |
-|14:00-14:30|Registration| **Maekawa**| **Ono**    |            | **Kusminskiy** | **Parkin**  |
-|14:30-15:00| "          | **Poster Shotgun**| **Nan**   |     | **Kimel**   | **Otani** |
+|14:00-14:30|Registration| **Maekawa**| **Ono**    |            | **Kusminskiy** | **Otani**  |
+|14:30-15:00| "          | **Poster Shotgun**| **Parkin**   |     | **Kimel**   | **Matsuo** |
 |15:00-15:30| "          | Coffee & Poster| Coffee & Poster|    | Coffee & Poster| Coffee & Poster|
-|15:30-16:00| "          | **Song**  | _Panel_    |            | **Adachi**    |**Matsuo**|
+|15:30-16:00| "          | **Song**  | _Panel_    |            | **Adachi**    |**Murakami**|
 |16:00-16:30| "          | **Šmejkal** |_Discussion_|            | **Hou** | **Barker**|
 |16:30-17:00| "          |**Liu**     |_on SpinCat_|            | **Wu**     | _Closing_   |
 |17:00-20:00| _Free_     | _Free_     | _Free_     |  _Banquet_ | _Free_     |          |
