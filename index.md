@@ -62,17 +62,17 @@ Tentative program
 |:---------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 |08:55-09:00|            | _Opening_  |            | _Excursion_|            |            |
 |09:00-09:30|            | **Saitoh** |**van Wees**|            |**Lee**| **Hillebrands** |
-|09:30-10:00|            |**Hoffmann**| **Chen**   |            | **Luo**     | **Hu**    |
+|09:30-10:00|            |**Back**| **Chen**   |            | **Kläui**     | **Hu**    |
 |10:00-10:30|            | **Zink**   | **Duine** |            | **Kelly**  | **H. Yu**  |
 |10:30-11:00|            | Coffee & Poster| Coffee & Poster|    | Coffee & Poster| Coffee & Poster|
-|11:00-11:30|            | **Kläui**  | **Parkin**  |            | **Kuschel**  | **Nan**|
-|11:30-12:00|            | **Wan**    |**Chumak**|            | **Leon**  | **Yamamoto**    |
-|12:00-12:30|            | **Uchida** | **T. Yu**  |            | **Valet**| **Back**|
+|11:00-11:30|            | **Parkin**  | **Luo**  |            | **Kuschel**  | **Hoffmann**|
+|11:30-12:00|            | **Chumak**    |**Wan**|            | **Leon**  | **Yamamoto**    |
+|12:00-12:30|            | **Murakami** | **Uchida**  |            | **Valet**| **Nan**|
 |12:30-14:00|            | _Lunch_    | _Lunch_    |            | _Lunch_    | _Lunch_    |
 |14:00-14:30|Registration| **Maekawa**| **Ono**    |            | **Kusminskiy** | **Otani**  |
-|14:30-15:00| "          | **Poster Shotgun**| **Klein**   |     | **Kimel**   | **Matsuo** |
+|14:30-15:00| "          | **Poster Shotgun**| **T. Yu**   |     | **Kimel**   | **Matsuo** |
 |15:00-15:30| "          | Coffee & Poster| Coffee & Poster|    | Coffee & Poster| Coffee & Poster|
-|15:30-16:00| "          | **Song**  | _Panel_    |            | **Adachi**    |**Murakami**|
+|15:30-16:00| "          | **Song**  | _Panel_    |            | **Adachi**    |**Klein**|
 |16:00-16:30| "          | **Šmejkal** |_Discussion_|            | **Hou** | **Barker**|
 |16:30-17:00| "          |**Liu**     |_on SpinCat_|            | **Wu**     | _Closing_   |
 |17:00-20:00| _Free_     | _Free_     | _Free_     |  _Banquet_ | _Free_     |          |
