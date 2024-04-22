@@ -59,6 +59,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Reza Rouzegar_, Freie Universität Berlin (poster)
 1. _Laichuan Shen_, Beijing Normal University (poster)
 1. _Ka Shen_, Beijing Normal University
+1. _Lutong Sheng_, Beihang University
 1. _Zhong Shi_, Tongji University (poster)
 1. _Alessandro Sola_, INRIM (poster)
 1. _Chi Sun_, Norwegian University of Science and Technology (poster)
