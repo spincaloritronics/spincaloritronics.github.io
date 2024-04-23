@@ -38,7 +38,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Sai Li_, Beihang University
 1. _Xinlu Li_, Huazhong University of Science and Technology (poster)
 1. **Yu Li**, Institute of quantum materials and physics, Henan Academy of Sciences
-1. **Yum-Mei Li**, Xiamen University (poster)
+1. **Yun-Mei Li**, Xiamen University (poster)
 1. **Zhaoqing Li**, Beijing Normal University (poster)
 1. **Zhengyi Li**, Nanjing Normal University (poster)
 1. _Lu Liu_, Southern University of Science and Technology (poster)
@@ -75,7 +75,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Yuqiang Wang_, Institute of Physics, CAS (poster)
 1. _Yutian Wang_, Fudan University (poster)
 1. _Peng Wang_, Max Planck Institute of Microstructure Physics (poster)
-1. _Zi-An Wang_, Institute of Solid State Physics, CAS
+1. _Zi-An Wang_, Institute of Solid State Physics, CAS (poster)
 1. _Yusuf Wicaksono_, RIKEN (poster)
 1. **Poramed Wongjom**,	Thammasat University
 1. _Kun Wu_, Huazhong University of Science and Technology
