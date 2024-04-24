@@ -14,6 +14,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Di Chen_, Beijing Academy of Quantum Information Sciences
 1. _Haoran Chen_, Fudan University (poster)
 1. **Lin Chen**, Technical University Munich (poster)
+1. _Qian Chen_, Southeast University (poster)
 1. _Xiaobing Chen_, Southern University of Science and Technology (poster)
 1. _Mikhail Cherkasskii_, RWTH Aachen (poster)
 1. **Peter Connick**, University of California, Los Angeles (poster)
@@ -38,7 +39,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Sai Li_, Beihang University
 1. _Xinlu Li_, Huazhong University of Science and Technology (poster)
 1. **Yu Li**, Institute of quantum materials and physics, Henan Academy of Sciences
-1. **Yun-Mei Li**, Xiamen University (poster)
+1. _Yun-Mei Li_, Xiamen University (poster)
 1. **Zhaoqing Li**, Beijing Normal University (poster)
 1. **Zhengyi Li**, Nanjing Normal University (poster)
 1. _Lu Liu_, Southern University of Science and Technology (poster)
@@ -71,13 +72,13 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Ledong Wang**, Tsinghua University (poster)
 1. _Lei Wang_, Southeast University
 1. _Qi Wang_, Huazhong University of Science and Technology 
-1. **Yiqing Wang**, Southeast University
+1. _Yiqing Wang_, Southeast University
 1. _Yuqiang Wang_, Institute of Physics, CAS (poster)
 1. _Yutian Wang_, Fudan University (poster)
 1. _Peng Wang_, Max Planck Institute of Microstructure Physics (poster)
 1. _Zi-An Wang_, Institute of Solid State Physics, CAS (poster)
 1. _Yusuf Wicaksono_, RIKEN (poster)
-1. **Poramed Wongjom**,	Thammasat University
+1. _Poramed Wongjom_,	Thammasat University (poster)
 1. _Kun Wu_, Huazhong University of Science and Technology
 1. **Shiwei Wu**, Fudan University
 1. _Tong Wu_, Fudan University (poster)
@@ -100,6 +101,6 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Xi-Han Zhou_,	Huazhong University of Science and Technology (poster)
 1. _Meng Zhu_, Huazhong University of Science and Technology (poster)
 1. **Weijia Zhu**, Aalto University
-1. **Fengjun Zhuo**, ShanghaiTech University
+1. _Fengjun Zhuo_, ShanghaiTech University (poster)
 1. **Yanyan Zhu**, University of California, Los Angeles
 1. _Ji Zou_, University of Basel (poster)
