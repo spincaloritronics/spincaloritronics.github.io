@@ -69,7 +69,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Franz Vilsmeier_,	Technische Universität München (poster)
 1. _Chongzhou Wang_, Fudan University (poster)
 1. _Jiongjie Wang_, Fudan University (poster)
-1. **Ledong Wang**, Tsinghua University (poster)
+1. _Ledong Wang_, Tsinghua University (poster)
 1. _Lei Wang_, Southeast University
 1. _Qi Wang_, Huazhong University of Science and Technology 
 1. _Yiqing Wang_, Southeast University
@@ -86,6 +86,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Zian Xia_, Fudan University (poster)
 1. _Guofu Xu_, Lanzhou University
 1. _Dezheng Yang_, Lanzhou University (poster)
+1. _Huanhuan Yang_, UESTC (poster)
 1. **Pengtao Yang**, Institute of Physics, CAS
 1. _Xiaoqing Yang_, Nanjing University
 1. _Xiyin Ye_, Huazhong University of Science and Technology (poster)
