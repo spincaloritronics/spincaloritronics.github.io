@@ -25,7 +25,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Zheng Feng**, Microsystem & Terahertz Research Center, CAEP
 1. _Pingfan Gu_, Peking University
 1. _Yiming Guo_, Xiamen Univerisity/Lanzhou University
-1. **Kang He**, Microsystem & Terahertz Research Center, CAEP
+1. _Kang He_, Microsystem & Terahertz Research Center, CAEP
 1. **Chensong Hua**, Fudan University (poster)
 1. _Xiangfan Huang_, Sun Yat-sen University
 1. _William Huddie_, Utrecht University (poster)
@@ -47,10 +47,10 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Shiqiang Liu_, Peking University
 1. _Xuejuan Liu_,	University of Electronic Science and Technology of China (poster)
 1. _Yi Liu_, Beijing Normal University
-1. **Yunwen Liu**, Fudan University (poster)
+1. _Yunwen Liu_, Fudan University (poster)
 1. _Bingcheng Luo_, Peking University
 1. **Dongqi Luo**, Beijing Normal University (poster)
-1. **Bowen Ma**, The University of Hong Kong (poster)
+1. _Bowen Ma_, The University of Hong Kong (poster)
 1. _Theeranuch Nachaithong_, Thammasat University (poster)
 1. _Thomas Nussle_, University of Leeds (poster)
 1. **Haolin Pan**, University of Science and Technology of China (poster)
@@ -80,7 +80,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Yusuf Wicaksono_, RIKEN (poster)
 1. _Poramed Wongjom_,	Thammasat University (poster)
 1. _Kun Wu_, Huazhong University of Science and Technology
-1. **Shiwei Wu**, Fudan University
+1. _Shiwei Wu_, Fudan University
 1. _Tong Wu_, Fudan University (poster)
 1. _Ke Xia_, Southeast University
 1. _Zian Xia_, Fudan University (poster)
