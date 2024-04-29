@@ -40,7 +40,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Xinlu Li_, Huazhong University of Science and Technology (poster)
 1. **Yu Li**, Institute of quantum materials and physics, Henan Academy of Sciences
 1. _Yun-Mei Li_, Xiamen University (poster)
-1. **Zhaoqing Li**, Beijing Normal University (poster)
+1. _Zhaoqing Li_, Beijing Normal University (poster)
 1. **Zhengyi Li**, Nanjing Normal University (poster)
 1. _Lu Liu_, Southern University of Science and Technology (poster)
 1. _Pengfei Liu_,	Institute of Semiconductors, CAS (poster)
