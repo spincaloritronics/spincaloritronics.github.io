@@ -13,6 +13,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Cui-Qun Chen_, Sun Yat-sen University (poster)
 1. _Di Chen_, Beijing Academy of Quantum Information Sciences
 1. _Haoran Chen_, Fudan University (poster)
+1. _Jilei Chen_, Southern University of Science and Technology
 1. **Lin Chen**, Technical University Munich (poster)
 1. _Qian Chen_, Southeast University (poster)
 1. _Xiaobing Chen_, Southern University of Science and Technology (poster)
@@ -22,11 +23,11 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Yongcheng, Deng_,	Institute of Semiconductors, CAS (poster)
 1. **Jianting Dong**, Huazhong University of Science and Technology
 1. _Wei Duan_, Huazhong University of Science and Technology (poster)
-1. **Zheng Feng**, Microsystem & Terahertz Research Center, CAEP
+1. _Zheng Feng_, Microsystem & Terahertz Research Center, CAEP
 1. _Pingfan Gu_, Peking University
 1. _Yiming Guo_, Xiamen Univerisity/Lanzhou University
 1. _Kang He_, Microsystem & Terahertz Research Center, CAEP
-1. **Chensong Hua**, Fudan University (poster)
+1. _Chensong Hua_, Fudan University (poster)
 1. _Xiangfan Huang_, Sun Yat-sen University
 1. _William Huddie_, Utrecht University (poster)
 1. _Linhao Jia_, Peking University
@@ -38,7 +39,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Junxue Li_, Southern University of Science and Technology (poster)
 1. _Sai Li_, Beihang University
 1. _Xinlu Li_, Huazhong University of Science and Technology (poster)
-1. **Yu Li**, Institute of quantum materials and physics, Henan Academy of Sciences
+1. _Yu Li_, Institute of quantum materials and physics, Henan Academy of Sciences
 1. _Yun-Mei Li_, Xiamen University (poster)
 1. _Zhaoqing Li_, Beijing Normal University (poster)
 1. **Zhengyi Li**, Nanjing Normal University (poster)
@@ -49,7 +50,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Yi Liu_, Beijing Normal University
 1. _Yunwen Liu_, Fudan University (poster)
 1. _Bingcheng Luo_, Peking University
-1. **Dongqi Luo**, Beijing Normal University (poster)
+1. _Dongqi Luo_, Beijing Normal University (poster)
 1. _Bowen Ma_, The University of Hong Kong (poster)
 1. _Theeranuch Nachaithong_, Thammasat University (poster)
 1. _Thomas Nussle_, University of Leeds (poster)
@@ -103,5 +104,5 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Meng Zhu_, Huazhong University of Science and Technology (poster)
 1. **Weijia Zhu**, Aalto University
 1. _Fengjun Zhuo_, ShanghaiTech University (poster)
-1. **Yanyan Zhu**, University of California, Los Angeles
+1. _Yanyan Zhu_, University of California, Los Angeles (poster)
 1. _Ji Zou_, University of Basel (poster)
