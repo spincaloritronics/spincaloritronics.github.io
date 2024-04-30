@@ -14,11 +14,11 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Di Chen_, Beijing Academy of Quantum Information Sciences
 1. _Haoran Chen_, Fudan University (poster)
 1. _Jilei Chen_, Southern University of Science and Technology
-1. **Lin Chen**, Technical University Munich (poster)
+1. _Lin Chen_, Technical University Munich (poster)
 1. _Qian Chen_, Southeast University (poster)
 1. _Xiaobing Chen_, Southern University of Science and Technology (poster)
 1. _Mikhail Cherkasskii_, RWTH Aachen (poster)
-1. **Peter Connick**, University of California, Los Angeles (poster)
+1. _Peter Connick_, University of California, Los Angeles (poster)
 1. **Chau Dao**, University of California, Los Angeles (poster)
 1. _Yongcheng, Deng_,	Institute of Semiconductors, CAS (poster)
 1. **Jianting Dong**, Huazhong University of Science and Technology
