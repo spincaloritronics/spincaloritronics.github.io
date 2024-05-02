@@ -19,9 +19,9 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Xiaobing Chen_, Southern University of Science and Technology (poster)
 1. _Mikhail Cherkasskii_, RWTH Aachen (poster)
 1. _Peter Connick_, University of California, Los Angeles (poster)
-1. **Chau Dao**, University of California, Los Angeles (poster)
+1. _Chau Dao_, University of California, Los Angeles (poster)
 1. _Yongcheng, Deng_,	Institute of Semiconductors, CAS (poster)
-1. **Jianting Dong**, Huazhong University of Science and Technology
+1. _Jianting Dong_, Huazhong University of Science and Technology
 1. _Wei Duan_, Huazhong University of Science and Technology (poster)
 1. _Zheng Feng_, Microsystem & Terahertz Research Center, CAEP
 1. _Pingfan Gu_, Peking University
