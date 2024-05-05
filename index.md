@@ -62,8 +62,8 @@ Tentative program (subject to further changes)
 |:---------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 |08:55-09:00|            | _Opening_  |            | _Excursion_|            |            |
 |09:00-09:30|            | **Saitoh** |**van Wees**|            |**Lee**| **Hillebrands** |
-|09:30-10:00|            |**Back**| **Chen**   |            | **Kläui**     | **Chumak**    |
-|10:00-10:30|            | **Zink**   | **Duine** |            | **Kelly**  | **H. Yu**  |
+|09:30-10:00|            |**Back**| **Chen**   |            | **Kläui**     | **H. Yu**    |
+|10:00-10:30|            | **Zink**   | **Duine** |            | **Kelly**  | **Chumak**  |
 |10:30-11:00|            | Coffee & Poster| Coffee & Poster|    | Coffee & Poster| Coffee & Poster|
 |11:00-11:30|            | **Maekawa**  | **Yamamoto**  |            | **Kuschel**  | **T. Yu**|
 |11:30-12:00|            | **Murakami**    |**Wan**|            | **Leon**  | **Hoffmann**    |
