@@ -43,6 +43,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Yun-Mei Li_, Xiamen University (poster)
 1. _Zhaoqing Li_, Beijing Normal University (poster)
 1. **Zhengyi Li**, Nanjing Normal University (poster)
+1. _Weiwei Lin_, Southeast University (poster)
 1. _Lu Liu_, Southern University of Science and Technology (poster)
 1. _Pengfei Liu_,	Institute of Semiconductors, CAS (poster)
 1. _Shiqiang Liu_, Peking University
