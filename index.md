@@ -22,9 +22,14 @@ and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 <!-- - Please note that all talks at the workshop will be by invitation only. 
 **If you are interested in attending or presenting a poster, please submit your application at the [Application section](#application).** Due to space limitations in the conference room, we can only accept approximately 100 applicants. Thank you for your understanding. -->
 
-**The application process for the workshop has now concluded. If you submitted an application, please check [the list of accepted participants](accepted.md) and verify if you have been selected to attend the workshop.**
+**Workshop booklet can be downloaded [here](./docs/SC13_Booklet.pdf).**
 
-**Registration is now open, for invited speakers and accepted applicants, please scroll down to the [Registration section](#registration) to fill out the registration forms.**
+**The abstracts for the talks and posters can be downloaded [here](./docs/SC13_Abstract.pdf).**
+
+
+The application process for the workshop has now concluded. If you submitted an application, please check [the list of accepted participants](accepted.md) and verify if you have been selected to attend the workshop.
+
+Registration is now open, for invited speakers and accepted applicants, please scroll down to the [Registration section](#registration) to fill out the registration forms.
 
 ---
 
@@ -56,9 +61,6 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
   
 # Program
 
-- Workshop booklet can be downloaded [here](./docs/SC13_Booklet.pdf).
-- The abstracts for the talks and posters can be downloaded [here](./docs/SC13_Abstract.pdf).
-
 Tentative program (subject to further changes)
 
 |           |May 19 (Sun) | May 20 (Mon)      | May 21 (Tues)     | May 22 (Wed)   | May 23 (Thur)    | May 24 (Fri)      |  
@@ -75,9 +77,9 @@ Tentative program (subject to further changes)
 |14:00-14:30|Registration| **Parkin**| **Ono**    |            | **Kusminskiy** | **Otani**  |
 |14:30-15:00| "          | **Poster Shotgun**| **Hu**   |     | **Kimel**   | **Matsuo** |
 |15:00-15:30| "          | Coffee & Poster| Coffee & Poster|    | Coffee & Poster| Coffee & Poster|
-|15:30-16:00| "          | **Song**  | _Panel_    |            | **Adachi**    |**Klein**|
+|15:30-16:00| "          | **Liu**  | _Panel_    |            | **Adachi**    |**Klein**|
 |16:00-16:30| "          | **Šmejkal** |_Discussion_|            | **Hou** | **Barker**|
-|16:30-17:00| "          |**Liu**     |_on SpinCat_|            | **Wu**     | _Closing_   |
+|16:30-17:00| "          |**Song**     |_on SpinCat_|            | **Wu**     | _Closing_   |
 |17:00-20:00| _Free_     | _Free_     | _Free_     |  _Banquet_ | _Free_     |          |
 
 # Invited speakers
