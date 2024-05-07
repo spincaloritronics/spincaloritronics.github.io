@@ -67,7 +67,6 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Alessandro Sola_, INRIM (poster)
 1. _Chi Sun_, Norwegian University of Science and Technology (poster)
 1. _Yiming Sun_, Beihang University (poster)
-1. _Andrei Telegin_, M.N. Mikheev Institute of Metal Physics UB of RAS (poster)
 1. _Franz Vilsmeier_,	Technische Universität München (poster)
 1. _Chongzhou Wang_, Fudan University (poster)
 1. _Jiongjie Wang_, Fudan University (poster)
@@ -100,10 +99,12 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Huanyu Zhang_, Fudan University (poster)
 1. **Jiachen Zhang**, University of Science and Technology of China (poster)
 1. _Wen Zhang_, Southeast University (poster)
-1. _Zhibo Zhao_, Karlsruhe Institute of Technology 
 1. _Xi-Han Zhou_,	Huazhong University of Science and Technology (poster)
 1. _Meng Zhu_, Huazhong University of Science and Technology (poster)
 1. **Weijia Zhu**, Aalto University
 1. _Fengjun Zhuo_, ShanghaiTech University (poster)
 1. _Yanyan Zhu_, University of California, Los Angeles (poster)
 1. _Ji Zou_, University of Basel (poster)
+
+<!-- 1. _Andrei Telegin_, M.N. Mikheev Institute of Metal Physics UB of RAS (poster)
+1. _Zhibo Zhao_, Karlsruhe Institute of Technology  -->
