@@ -56,6 +56,9 @@ Spin caloritronics encompasses the study of coupled spin, charge, and heat trans
   
 # Program
 
+- Workshop booklet can be downloaded [here](./docs/SC13_Booklet.pdf).
+- The abstracts for the talks and posters can be downloaded [here](./docs/SC13_Abstract.pdf).
+
 Tentative program (subject to further changes)
 
 |           |May 19 (Sun) | May 20 (Mon)      | May 21 (Tues)     | May 22 (Wed)   | May 23 (Thur)    | May 24 (Fri)      |  
