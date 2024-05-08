@@ -45,6 +45,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. **Zhengyi Li**, Nanjing Normal University (poster)
 1. _Weiwei Lin_, Southeast University (poster)
 1. _Lu Liu_, Southern University of Science and Technology (poster)
+1. **Baojia Liu**, Beihang University
 1. _Pengfei Liu_,	Institute of Semiconductors, CAS (poster)
 1. _Shiqiang Liu_, Peking University
 1. _Xuejuan Liu_,	University of Electronic Science and Technology of China (poster)
@@ -88,6 +89,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Guofu Xu_, Lanzhou University
 1. _Dezheng Yang_, Lanzhou University (poster)
 1. _Huanhuan Yang_, UESTC (poster)
+1. **Liu Yang**, Beihang University
 1. **Pengtao Yang**, Institute of Physics, CAS
 1. _Xiaoqing Yang_, Nanjing University
 1. _Xiyin Ye_, Huazhong University of Science and Technology (poster)
