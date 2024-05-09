@@ -22,9 +22,11 @@ and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 <!-- - Please note that all talks at the workshop will be by invitation only. 
 **If you are interested in attending or presenting a poster, please submit your application at the [Application section](#application).** Due to space limitations in the conference room, we can only accept approximately 100 applicants. Thank you for your understanding. -->
 
-**Workshop booklet can be downloaded [here](./docs/SC13_Booklet.pdf).**
+**Workshop [booklet](./docs/SC13_Booklet.pdf) and [abstracts](./docs/SC13_Abstract.pdf) can be downloaded.**
 
-**The abstracts for the talks and posters can be downloaded [here](./docs/SC13_Abstract.pdf).**
+**Please fill the following form to attend the excursion on Wednesday (May 22).**
+- **For participants WITH Chinese ID, click [here](https://www.wenjuan.com/s/3YBFBrL/)**
+- **For participants WITHOUT Chinese ID, click [here](https://www.wenjuan.com/s/RrIzuyT/)**
 
 
 The application process for the workshop has now concluded. If you submitted an application, please check [the list of accepted participants](accepted.md) and verify if you have been selected to attend the workshop.
