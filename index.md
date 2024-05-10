@@ -229,12 +229,11 @@ Please fill the online registration form before May 1, 2024. There will be no re
 # Venue & Hotel
 
 - Workshop Venue:  
-  [Room S101, Teaching Bldg., Zhong-Guan-Cun Campus, UCAS](https://j.map.baidu.com/82/rEWK)   
+  Room S101, Teaching Bldg., Zhong-Guan-Cun Campus, UCAS ([Baidu Map](https://j.map.baidu.com/82/rEWK), [Bing Map](https://cn.bing.com/maps?osid=fd2413cb-a77e-44e4-9fc0-30dae2d8a0d1&cp=qnxczctpts23&lvl=17&v=2&sV=2&form=S00027))   
   中国科学院大学中关村校区教学楼一层S101  
   Address: No.3, Zhong-Guan-Cun Nan Yi Tiao, Beijing, China  
-  北京市海淀区中关村南一条3号
-- Room S101, Teaching Building, Meeting room at [UCAS campus](https://cn.bing.com/maps?osid=fd2413cb-a77e-44e4-9fc0-30dae2d8a0d1&cp=qnxczctpts23&lvl=17&v=2&sV=2&form=S00027)
-    - Subway stations (_Zhichunli Station_ - Line 10, _Zhichun Road Station_ - Line 10/13) are about 20 min on foot. 
+  北京市海淀区中关村南一条3号   
+  <img src="../assets/images/Venue.png" alt="luxet" width="600"/>
 - Recommended Hotel: [Park Plaza Beijing Science Park](https://tinyurl.com/4e8rv3xf) / 北京丽亭华苑酒店
 
 # Visa
