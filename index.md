@@ -22,16 +22,19 @@ and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 <!-- - Please note that all talks at the workshop will be by invitation only. 
 **If you are interested in attending or presenting a poster, please submit your application at the [Application section](#application).** Due to space limitations in the conference room, we can only accept approximately 100 applicants. Thank you for your understanding. -->
 
+---
 **Workshop [booklet](./docs/SC13_Booklet.pdf) and [abstracts](./docs/SC13_Abstract.pdf) can be downloaded.**
 
 **Please fill the following form to attend the excursion and the conference banquet on Wednesday (May 22).**
 - **For participants WITH Chinese ID, click [here](https://www.wenjuan.com/s/3YBFBrL/)**
 - **For participants WITHOUT Chinese ID, click [here](https://www.wenjuan.com/s/RrIzuyT/)**
 
+**[Shotgun Presentations](https://send2me.cn/DaplrSwt/TFO8bBHZow0V5g): We are organizing 1-minute shotgun presentations for poster contributors on Monday. If you wish to present a brief overview of your poster, please submit a one-page slide containing no more than 200 words via [THIS LINK](https://send2me.cn/DaplrSwt/TFO8bBHZow0V5g).** Please note that in case of more than 30 submissions, a selection process will be implemented due to time constraints.
 
-The application process for the workshop has now concluded. If you submitted an application, please check [the list of accepted participants](accepted.md) and verify if you have been selected to attend the workshop.
+<!-- The application process for the workshop has now concluded. If you submitted an application, please check [the list of accepted participants](accepted.md) and verify if you have been selected to attend the workshop.
 
 Registration is now open, for invited speakers and accepted applicants, please scroll down to the [Registration section](#registration) to fill out the registration forms.
+ -->
 
 ---
 
