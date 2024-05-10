@@ -233,7 +233,7 @@ Please fill the online registration form before May 1, 2024. There will be no re
   中国科学院大学中关村校区教学楼一层S101  
   Address: No.3, Zhong-Guan-Cun Nan Yi Tiao, Beijing, China  
   北京市海淀区中关村南一条3号   
-  <img src="../assets/images/Venue.png" alt="luxet" width="600"/>
+  <img src="../assets/images/Venue.png" alt="luxet" width="500"/>
 - Recommended Hotel: [Park Plaza Beijing Science Park](https://tinyurl.com/4e8rv3xf) / 北京丽亭华苑酒店
 
 # Visa
