@@ -38,6 +38,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Jun Li_, Tongji University & University of Manitoba
 1. _Junxue Li_, Southern University of Science and Technology (poster)
 1. _Sai Li_, Beihang University
+1. _Xiaojing Li_, Southeast University (poster)
 1. _Xinlu Li_, Huazhong University of Science and Technology (poster)
 1. _Yu Li_, Institute of quantum materials and physics, Henan Academy of Sciences
 1. _Yun-Mei Li_, Xiamen University (poster)
