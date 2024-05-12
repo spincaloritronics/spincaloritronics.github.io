@@ -23,7 +23,7 @@ and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 **If you are interested in attending or presenting a poster, please submit your application at the [Application section](#application).** Due to space limitations in the conference room, we can only accept approximately 100 applicants. Thank you for your understanding. -->
 
 ---
-Workshop [booklet](./docs/SC13_Booklet_0512.pdf) and [abstracts](./docs/SC13_Abstract.pdf) are now available for downloading.
+Workshop [booklet (update on May 12)](./docs/SC13_Booklet_0512.pdf) and [abstracts](./docs/SC13_Abstract.pdf) are now available for downloading.
 
 **Please fill the following form to attend the excursion and the conference banquet on Wednesday (May 22).**
 - **For participants WITH Chinese ID, click [here](https://www.wenjuan.com/s/3YBFBrL/)**
@@ -239,6 +239,7 @@ Please fill the online registration form before May 1, 2024. There will be no re
   <img src="../assets/images/Venue.png" alt="luxet" width="500"/>
 
 - Recommended Hotel: [Park Plaza Beijing Science Park](https://tinyurl.com/4e8rv3xf) / 北京丽亭华苑酒店  
+  Accommodation has been reserved for all invited speakers and their associates at the hotel above. You can check-in directly upon arrival.
 
 # Visa
 
