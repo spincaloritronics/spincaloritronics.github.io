@@ -237,7 +237,8 @@ Please fill the online registration form before May 1, 2024. There will be no re
   Address: No.3, Zhong-Guan-Cun Nan Yi Tiao, Beijing, China  
   北京市海淀区中关村南一条3号   
   <img src="../assets/images/Venue.png" alt="luxet" width="500"/>
-- Recommended Hotel: [Park Plaza Beijing Science Park](https://tinyurl.com/4e8rv3xf) / 北京丽亭华苑酒店
+
+- Recommended Hotel: [Park Plaza Beijing Science Park](https://tinyurl.com/4e8rv3xf) / 北京丽亭华苑酒店  
 
 # Visa
 
