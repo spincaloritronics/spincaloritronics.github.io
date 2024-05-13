@@ -23,13 +23,14 @@ and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 **If you are interested in attending or presenting a poster, please submit your application at the [Application section](#application).** Due to space limitations in the conference room, we can only accept approximately 100 applicants. Thank you for your understanding. -->
 
 ---
-Workshop [booklet (update on May 12)](./docs/SC13_Booklet_0512.pdf) and [abstracts](./docs/SC13_Abstract.pdf) are now available for downloading.
+- **Workshop [booklet](./docs/SC13_Booklet_0512.pdf) and [abstracts](./docs/SC13_Abstract.pdf) are now available for downloading (Update on May 12).**
 
-**Please fill the following form to attend the excursion and the conference banquet on Wednesday (May 22).**
-- **For participants WITH Chinese ID, click [here](https://www.wenjuan.com/s/3YBFBrL/)**
-- **For participants WITHOUT Chinese ID, click [here](https://www.wenjuan.com/s/RrIzuyT/)**
+- **Please fill the following form to attend the excursion and the conference banquet on Wednesday (May 22).**   
+  - **For participants WITH Chinese ID, click [here](https://www.wenjuan.com/s/3YBFBrL/)**   
+  - **For participants WITHOUT Chinese ID, click [here](https://www.wenjuan.com/s/RrIzuyT/)**
 
-[**Shotgun Presentations**](https://send2me.cn/DaplrSwt/TFO8bBHZow0V5g): **We are organizing 1-minute shotgun presentations for poster contributors on Monday. If you wish to present a brief overview of your poster, please submit a one-page slide containing no more than 200 words via [THIS LINK](https://send2me.cn/DaplrSwt/TFO8bBHZow0V5g).** Please note that in case of more than 30 submissions, a selection process will be implemented due to time constraints.
+- [**Shotgun Presentations**](https://send2me.cn/DaplrSwt/TFO8bBHZow0V5g)   
+  **We are organizing 1-minute shotgun presentations for poster contributors on Monday. If you wish to present a brief overview of your poster, please submit a one-page slide containing no more than 200 words via [THIS LINK](https://send2me.cn/DaplrSwt/TFO8bBHZow0V5g).** Please note that in case of more than 30 submissions, a selection process will be implemented due to time constraints.
 
 <!-- The application process for the workshop has now concluded. If you submitted an application, please check [the list of accepted participants](accepted.md) and verify if you have been selected to attend the workshop.
 
@@ -246,7 +247,7 @@ Please fill the online registration form before May 1, 2024. There will be no re
 
 - Under the [new visa policy](https://english.www.gov.cn/news/202311/24/content_WS656067a2c6d0868f4e8e196d.html), from Dec. 1, 2023 to Nov. 30, 2024, holders of ordinary passports from France, Germany, Italy, the Netherlands, Spain and Malaysia may enter China visa-free for business, tourism, visiting relatives and friends and transit for no more than 15 days.   
 - For visa related issues, such as the official invitation letter, please contact workshop assistant Ms. Nan Jin (Tracy), jinnan [at] ucas.ac.cn.
-- In some cases, a hotel reservation might be needed for visa application. If so, we recommend you to make a reservation with free cancellation policy on [booking.com](https://www.booking.com/), and cancel it after printing.
+<!-- - In some cases, a hotel reservation might be needed for visa application. If so, we recommend you to make a reservation with free cancellation policy on [booking.com](https://www.booking.com/), and cancel it after printing. -->
 
 # Sponsors
 
