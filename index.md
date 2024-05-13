@@ -30,7 +30,7 @@ and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
   - **For participants WITHOUT Chinese ID, click [here](https://www.wenjuan.com/s/RrIzuyT/)**
 
 - [**Shotgun Presentations**](https://send2me.cn/DaplrSwt/TFO8bBHZow0V5g)   
-  **We are organizing 1-minute shotgun presentations for poster contributors on Monday. If you wish to present a brief overview of your poster, please submit a one-page slide containing no more than 200 words via [THIS LINK](https://send2me.cn/DaplrSwt/TFO8bBHZow0V5g).** Please note that in case of more than 30 submissions, a selection process will be implemented due to time constraints.
+  We are excited to announce a special opportunity for you to showcase your work through a 'poster shotgun' oral presentation scheduled for Monday afternoon. This will allow you to deliver a brief, one-minute presentation on stage to highlight the key points of your poster. **To participate the shotgun pre., please submit your one-page PowerPoint slide via [THIS LINK](https://send2me.cn/DaplrSwt/TFO8bBHZow0V5g)**. This is a great chance to attract more visitors to your poster and engage with the audience effectively.
 
 <!-- The application process for the workshop has now concluded. If you submitted an application, please check [the list of accepted participants](accepted.md) and verify if you have been selected to attend the workshop.
 
