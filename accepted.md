@@ -35,7 +35,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Eric Kleinherbers_, University of California, Los Angeles (poster)
 1. _Hye-Won Ko_, Korea Advanced Institute of Science and Technology (poster)
 1. _Jin Lan_, Tianjin University (poster)
-1. _Na Lei_, Beihang University (poster)
+1. _Na Lei_, Beihang University
 1. _Jun Li_, Tongji University & University of Manitoba
 1. _Junxue Li_, Southern University of Science and Technology (poster)
 1. _Sai Li_, Beihang University
@@ -102,7 +102,6 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Wen Zhang_, Southeast University (poster)
 1. _Xi-Han Zhou_,	Huazhong University of Science and Technology (poster)
 1. _Meng Zhu_, Huazhong University of Science and Technology (poster)
-1. **Weijia Zhu**, Aalto University
 1. _Fengjun Zhuo_, ShanghaiTech University (poster)
 1. _Yanyan Zhu_, University of California, Los Angeles (poster)
 1. _Ji Zou_, University of Basel (poster)
@@ -113,4 +112,5 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Peng Wang_, Max Planck Institute of Microstructure Physics (poster)
 1. _Ke Xia_, Southeast University
 1. **Zhengyi Li**, Nanjing Normal University (poster)
+1. **Weijia Zhu**, Aalto University
 -->

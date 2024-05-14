@@ -25,7 +25,7 @@ and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 ---
 # Attention
 
-- **Workshop [booklet](./docs/SC13_Booklet_0512.pdf) and [abstracts](./docs/SC13_Abstract.pdf) are now available for downloading (Update on May 12).**
+- **Workshop [booklet](./docs/SC13_Booklet_0514.pdf) and [abstracts](./docs/SC13_Abstract_0514.pdf) are now available for downloading (Update on May 12).**
 
 - **Please fill the following form to attend the excursion and the conference banquet on Wednesday (May 22).**   
   - **For participants WITH Chinese ID, click [here](https://www.wenjuan.com/s/3YBFBrL/)**   
