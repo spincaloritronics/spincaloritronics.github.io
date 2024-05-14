@@ -44,10 +44,9 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Yu Li_, Institute of quantum materials and physics, Henan Academy of Sciences
 1. _Yun-Mei Li_, Xiamen University (poster)
 1. _Zhaoqing Li_, Beijing Normal University (poster)
-1. **Zhengyi Li**, Nanjing Normal University (poster)
 1. _Weiwei Lin_, Southeast University (poster)
 1. _Lu Liu_, Southern University of Science and Technology (poster)
-1. **Baojia Liu**, Beihang University
+1. _Baojia Liu_, Beihang University
 1. _Pengfei Liu_,	Institute of Semiconductors, CAS (poster)
 1. _Shiqiang Liu_, Peking University
 1. _Xuejuan Liu_,	University of Electronic Science and Technology of China (poster)
@@ -58,7 +57,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Bowen Ma_, The University of Hong Kong (poster)
 1. _Theeranuch Nachaithong_, Thammasat University (poster)
 1. _Thomas Nussle_, University of Leeds (poster)
-1. **Haolin Pan**, University of Science and Technology of China (poster)
+1. _Haolin Pan_, University of Science and Technology of China (poster)
 1. _Yeonsoo Park_, Korea Advanced Institute of Science and Technology (poster)
 1. _Shaomian Qi_, Peking University (poster)
 1. _Zhiyong Qiu_, Dalian University of Technology (poster)
@@ -90,7 +89,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Dezheng Yang_, Lanzhou University (poster)
 1. _Huanhuan Yang_, UESTC (poster)
 1. _Liu Yang_, Beihang University
-1. **Pengtao Yang**, Institute of Physics, CAS
+1. _Pengtao Yang_, Institute of Physics, CAS
 1. _Xiaoqing Yang_, Nanjing University
 1. _Xiyin Ye_, Huazhong University of Science and Technology (poster)
 1. _Yinong Yin_, Beijing Technology and Business University (poster)
@@ -99,7 +98,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Huaiyang Yuan_, Zhejiang University
 1. _Chi Zhang_, Lanzhou University
 1. _Huanyu Zhang_, Fudan University (poster)
-1. **Jiachen Zhang**, University of Science and Technology of China (poster)
+1. _Jiachen Zhang_, University of Science and Technology of China (poster)
 1. _Wen Zhang_, Southeast University (poster)
 1. _Xi-Han Zhou_,	Huazhong University of Science and Technology (poster)
 1. _Meng Zhu_, Huazhong University of Science and Technology (poster)
@@ -113,4 +112,5 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Zhong Shi_, Tongji University (poster)
 1. _Peng Wang_, Max Planck Institute of Microstructure Physics (poster)
 1. _Ke Xia_, Southeast University
+1. **Zhengyi Li**, Nanjing Normal University (poster)
 -->
