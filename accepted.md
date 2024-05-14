@@ -27,6 +27,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Pingfan Gu_, Peking University
 1. _Yiming Guo_, Xiamen Univerisity/Lanzhou University
 1. _Kang He_, Microsystem & Terahertz Research Center, CAEP
+1. _Guoyuan Hong_, Tsinghua University
 1. _Chensong Hua_, Fudan University (poster)
 1. _Xiangfan Huang_, Sun Yat-sen University
 1. _William Huddie_, Utrecht University (poster)
@@ -88,7 +89,7 @@ Please fill this [form](https://forms.office.com/r/ViypDDve5B) before May 1, 202
 1. _Guofu Xu_, Lanzhou University
 1. _Dezheng Yang_, Lanzhou University (poster)
 1. _Huanhuan Yang_, UESTC (poster)
-1. **Liu Yang**, Beihang University
+1. _Liu Yang_, Beihang University
 1. **Pengtao Yang**, Institute of Physics, CAS
 1. _Xiaoqing Yang_, Nanjing University
 1. _Xiyin Ye_, Huazhong University of Science and Technology (poster)
