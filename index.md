@@ -25,6 +25,10 @@ and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 ---
 # Attention
 
+- **Upon your arrival in Beijing, please pay a visit to the registration desk at the conference venue at your convinient time to collect your name badge and other conference materials. The registration desk is open during the following hours:**  
+  - May 19 (Sunday): 15:00-17:00 
+  - May 20 (Monday): 08:00-17:00
+
 - **Workshop [booklet](./docs/SC13_Booklet_0514.pdf) and [abstracts](./docs/SC13_Abstract_0514.pdf) are now available for downloading (last updated on May 14).**
 
 - **Please fill the following form to attend the excursion and the conference banquet on Wednesday (May 22).**   
