@@ -38,6 +38,32 @@ and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 - [**Shotgun Presentations**](https://send2me.cn/DaplrSwt/TFO8bBHZow0V5g)   
   We are excited to announce a special opportunity for you to showcase your work through a 'poster shotgun' oral presentation scheduled for Monday afternoon. This will allow you to deliver a brief, one-minute presentation on stage to highlight the key points of your poster. **To participate the shotgun pre., please submit your one-page PowerPoint slide via [**THIS LINK**](https://send2me.cn/DaplrSwt/TFO8bBHZow0V5g)**. This is a great chance to attract more visitors to your poster and engage with the audience effectively.
 
+  **List of shotgun presenters**
+  1. A02 - Bowen Ma
+  1. A04 - Chengyuan Cai
+  1. A06 - Chi Sun
+  1. A10 - Eric Kleinherbers
+  1. A14 - Haoran Chen
+  1. A15 - Huaiyang Yuan
+  1. A17 - Huanyu Zhang
+  1. A18 - Hye-Won Ko
+  1. A19 - Ji Zou
+  1. A21 - Jin Lan
+  1. A22 - Jiongjie Wang
+  1. A23 - Junxue Li
+  1. A27 - Lu Liu
+  1. A30 - Pengfei Liu
+  1. B07 - Tong Wu
+  1. B13 - Xiaobing Chen
+  1. B16 - Xiyin Ye
+  1. B19 - Yeonsoo Park
+  1. B20 - Yiming Sun
+  1. B24 - Yunwen Liu
+  1. B27 - Yutian Wang
+  1. B28 - Yutong Yu
+  1. B29 - Zhaoqing Li
+  1. B33 - Liu Yang
+
 <!-- The application process for the workshop has now concluded. If you submitted an application, please check [the list of accepted participants](accepted.md) and verify if you have been selected to attend the workshop.
 
 Registration is now open, for invited speakers and accepted applicants, please scroll down to the [Registration section](#registration) to fill out the registration forms.
