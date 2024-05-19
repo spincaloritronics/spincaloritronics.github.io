@@ -43,11 +43,13 @@ and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
   1. A04 - Chengyuan Cai
   1. A06 - Chi Sun
   1. A10 - Eric Kleinherbers
+  1. A13 - Haolin Pan
   1. A14 - Haoran Chen
   1. A15 - Huaiyang Yuan
   1. A17 - Huanyu Zhang
   1. A18 - Hye-Won Ko
   1. A19 - Ji Zou
+  1. A20 - Jiacheng Zhang
   1. A21 - Jin Lan
   1. A22 - Jiongjie Wang
   1. A23 - Junxue Li
