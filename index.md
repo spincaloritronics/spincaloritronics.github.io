@@ -31,6 +31,8 @@ and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
   - May 19 (Sunday): 15:00-17:00 
   - May 20 (Monday): 08:00-17:00 -->
 
+- **Photo during the workshop can be downloaded from [here](https://www.jianguoyun.com/p/DaXgjpYQ84T3BRjantEFIAA#dir=%2F::mode=1) (same password as the booklet password)** 
+
 - **Workshop [booklet](./docs/SC13_Booklet_0518.pdf) and [abstracts](./docs/SC13_Abstract_0514.pdf) are now available for downloading (last updated on May 14).**
 
 - **Please fill the following form to attend the excursion and the conference banquet on Wednesday (May 22).**   
@@ -42,31 +44,31 @@ and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 
 **List of shotgun presenters**
   1. A02 - Bowen Ma
-  1. A04 - Chengyuan Cai
-  1. A06 - Chi Sun
-  1. A10 - Eric Kleinherbers
-  1. A13 - Haolin Pan
-  1. A14 - Haoran Chen
-  1. A15 - Huaiyang Yuan
-  1. A17 - Huanyu Zhang
-  1. A18 - Hye-Won Ko
-  1. A19 - Ji Zou
-  1. A20 - Jiacheng Zhang
-  1. A21 - Jin Lan
-  1. A22 - Jiongjie Wang
-  1. A23 - Junxue Li
-  1. A27 - Lu Liu
-  1. A30 - Pengfei Liu
-  1. B07 - Tong Wu
-  1. B13 - Xiaobing Chen
-  1. B16 - Xiyin Ye
-  1. B19 - Yeonsoo Park
-  1. B20 - Yiming Sun
-  1. B24 - Yunwen Liu
-  1. B27 - Yutian Wang
-  1. B28 - Yutong Yu
-  1. B29 - Zhaoqing Li
-  1. B33 - Liu Yang -->
+  2. A04 - Chengyuan Cai
+  3. A06 - Chi Sun
+  4. A10 - Eric Kleinherbers
+  5. A13 - Haolin Pan
+  6. A14 - Haoran Chen
+  7. A15 - Huaiyang Yuan
+  8. A17 - Huanyu Zhang
+  9. A18 - Hye-Won Ko
+  10. A19 - Ji Zou
+  11. A20 - Jiacheng Zhang
+  12. A21 - Jin Lan
+  13. A22 - Jiongjie Wang
+  14. A23 - Junxue Li
+  15. A27 - Lu Liu
+  16. A30 - Pengfei Liu
+  17. B07 - Tong Wu
+  18. B13 - Xiaobing Chen
+  19. B16 - Xiyin Ye
+  20. B19 - Yeonsoo Park
+  21. B20 - Yiming Sun
+  22. B24 - Yunwen Liu
+  23. B27 - Yutian Wang
+  24. B28 - Yutong Yu
+  25. B29 - Zhaoqing Li
+  26. B33 - Liu Yang -->
 
 <!-- The application process for the workshop has now concluded. If you submitted an application, please check [the list of accepted participants](accepted.md) and verify if you have been selected to attend the workshop.
 
