@@ -19,15 +19,17 @@ Groningen (2019),
 Urbana-Champaign ([2022](https://cem.osu.edu/2022-workshop-spin-caloritronics-xi/)),
 and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 
+<img src="../assets/images/group_photo.jpeg" alt="group photo" width="800"/>
+
 <!-- - Please note that all talks at the workshop will be by invitation only. 
 **If you are interested in attending or presenting a poster, please submit your application at the [Application section](#application).** Due to space limitations in the conference room, we can only accept approximately 100 applicants. Thank you for your understanding. -->
 
 ---
 # Attention
 
-- **Upon your arrival in Beijing, please pay a visit to the registration desk at the conference venue at your convinient time to collect your name badge and other conference materials. The registration desk is open during the following hours:**  
+<!-- - **Upon your arrival in Beijing, please pay a visit to the registration desk at the conference venue at your convinient time to collect your name badge and other conference materials. The registration desk is open during the following hours:**  
   - May 19 (Sunday): 15:00-17:00 
-  - May 20 (Monday): 08:00-17:00
+  - May 20 (Monday): 08:00-17:00 -->
 
 - **Workshop [booklet](./docs/SC13_Booklet_0518.pdf) and [abstracts](./docs/SC13_Abstract_0514.pdf) are now available for downloading (last updated on May 14).**
 
@@ -35,10 +37,10 @@ and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
   - **For participants WITH Chinese ID, click [here](https://www.wenjuan.com/s/3YBFBrL/)**   
   - **For participants WITHOUT Chinese ID, click [here](https://www.wenjuan.com/s/RrIzuyT/)**
 
-- [**Shotgun Presentations**](https://send2me.cn/DaplrSwt/TFO8bBHZow0V5g)   
+<!-- - [**Shotgun Presentations**](https://send2me.cn/DaplrSwt/TFO8bBHZow0V5g)   
   We are excited to announce a special opportunity for you to showcase your work through a 'poster shotgun' oral presentation scheduled for Monday afternoon. This will allow you to deliver a brief, one-minute presentation on stage to highlight the key points of your poster. **To participate the shotgun pre., please submit your one-page PowerPoint slide via [**THIS LINK**](https://send2me.cn/DaplrSwt/TFO8bBHZow0V5g)**. This is a great chance to attract more visitors to your poster and engage with the audience effectively.
 
-  **List of shotgun presenters**
+**List of shotgun presenters**
   1. A02 - Bowen Ma
   1. A04 - Chengyuan Cai
   1. A06 - Chi Sun
@@ -64,7 +66,7 @@ and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
   1. B27 - Yutian Wang
   1. B28 - Yutong Yu
   1. B29 - Zhaoqing Li
-  1. B33 - Liu Yang
+  1. B33 - Liu Yang -->
 
 <!-- The application process for the workshop has now concluded. If you submitted an application, please check [the list of accepted participants](accepted.md) and verify if you have been selected to attend the workshop.
 
