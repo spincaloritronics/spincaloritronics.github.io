@@ -257,7 +257,7 @@ _Topological "ZT": Thermodynamic efficiency of vorticity-transport based devices
 
 # Photo & Documents
 
-- Photo during the workshop can be downloaded from [**here**](https://www.jianguoyun.com/p/DaXgjpYQ84T3BRjantEFIAA#dir=%2F::mode=1) (same password as the Booklet)
+- Photo taken during the workshop can be downloaded from [here](https://www.jianguoyun.com/p/DaXgjpYQ84T3BRjantEFIAA#dir=%2F::mode=1) (same password as the Booklet)
 
 - Workshop [booklet](./docs/SC13_Booklet_0518.pdf) and [abstracts](./docs/SC13_Abstract_0514.pdf) are now available for downloading.
 
