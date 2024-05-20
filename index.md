@@ -254,6 +254,13 @@ _Magnon drag contributions to thermopower in low damping ferromagnetic metals_ -
 <!-- - **Yaroslav Tserkovnyak** - University of California, Los Angeles (UCLA), USA   
 _Topological "ZT": Thermodynamic efficiency of vorticity-transport based devices_ -->
 
+# Photo & Documents
+
+- Photo during the workshop can be downloaded from [**here**](https://www.jianguoyun.com/p/DaXgjpYQ84T3BRjantEFIAA#dir=%2F::mode=1) (same password as the Booklet)
+
+- Workshop [booklet](./docs/SC13_Booklet_0518.pdf) and [abstracts](./docs/SC13_Abstract_0514.pdf) are now available for downloading.
+
+
 # Application
 
 <!-- **Please fill out this [application form](https://forms.office.com/r/kNWXjY8Knf) to apply for the workshop (deadline: April 1, 2024).**    -->
