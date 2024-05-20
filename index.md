@@ -27,6 +27,7 @@ and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 ---
 # Attention
 
+- **If you like to join the workshop virtually, you may watch the live streaming on [Koushare](https://www.koushare.com/live/details/34530).**
 <!-- - **Upon your arrival in Beijing, please pay a visit to the registration desk at the conference venue at your convinient time to collect your name badge and other conference materials. The registration desk is open during the following hours:**  
   - May 19 (Sunday): 15:00-17:00 
   - May 20 (Monday): 08:00-17:00 -->
