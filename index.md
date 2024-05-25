@@ -24,16 +24,17 @@ and Tsukuba ([2023](http://magmatelab.imr.tohoku.ac.jp/SpinCalori12-main.html)).
 <!-- - Please note that all talks at the workshop will be by invitation only. 
 **If you are interested in attending or presenting a poster, please submit your application at the [Application section](#application).** Due to space limitations in the conference room, we can only accept approximately 100 applicants. Thank you for your understanding. -->
 
+<!-- 
 ---
-<!-- # Attention
+# Attention
 
 - **If you like to join the workshop virtually, you may watch the live streaming on [Koushare](https://www.koushare.com/live/details/34530).**
+ -->
 
 <!-- - **Upon your arrival in Beijing, please pay a visit to the registration desk at the conference venue at your convinient time to collect your name badge and other conference materials. The registration desk is open during the following hours:**  
   - May 19 (Sunday): 15:00-17:00 
   - May 20 (Monday): 08:00-17:00 -->
 
-- **Photo during the workshop can be downloaded from [here](https://www.jianguoyun.com/p/DaXgjpYQ84T3BRjantEFIAA#dir=%2F::mode=1) (same password as the booklet password)**  -->
 
 <!-- - **Workshop [booklet](./docs/SC13_Booklet_0518.pdf) and [abstracts](./docs/SC13_Abstract_0514.pdf) are now available for downloading (last updated on May 14).**
 
